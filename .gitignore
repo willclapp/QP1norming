@@ -27,3 +27,4 @@
 *.aws/
 *Submiterator/
 *post_to_mturk.txt
+*old_audio/
