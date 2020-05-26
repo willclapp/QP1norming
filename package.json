@@ -1,0 +1,25 @@
+{
+  "name": "qp1norming",
+  "version": "1.0.0",
+  "description": "QP1 norming",
+  "main": "import_csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willclapp/QP1norming.git"
+  },
+  "keywords": [
+    ":)"
+  ],
+  "author": "Will Clapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willclapp/QP1norming/issues"
+  },
+  "homepage": "https://github.com/willclapp/QP1norming#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  }
+}

@@ -41,7 +41,7 @@ var preload = function(resources, options /* afterEach, after, width */) {
 		}
 		
 		obj.onerror = function(e) {
-			$z.log("error");
+			console.log("error", e);
 		}
 		
 		if (embedTag) {

@@ -26,15 +26,15 @@ function make_slides(f) {
       $(".trial_button")
       .attr("disabled", true)
       var audio = $("<audio />")
-      .attr("src", "audio/" + stim.stim_audio)
+      .attr("src", "audio/" + stim.path)
       .attr("autoplay", true)
       .on("ended", function() {
         $(".trial_button")
         .attr("disabled", false)
       })
 
-      var voiced_option = build_trial_option(stim.voiced_word, "voiced")
-      var voiceless_option = build_trial_option(stim.voiceless_word, "voiceless")
+      var voiced_option = build_trial_option(stim.voiced, "voiced")
+      var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
       $(".display_condition")

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-arr=("mp_norming/audio/*")
+arr=("mp_norming/conversion/*")
 
 # arr=("experiment_no_shift/audio/context/*")
 

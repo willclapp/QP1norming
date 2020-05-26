@@ -33,7 +33,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 32,slab_slap_1,slab,slap,23,_,.mp3,slab_slap_1_23.mp3
 33,slid_slit_1,slid,slit,24,_,.mp3,slid_slit_1_24.mp3
 34,slide_slight_3,slide,slight,22,_,.mp3,slide_slight_3_22.mp3
-35,slop_slop_3,slob,slop,24,_,.mp3,slop_slop_3_24.mp3
+35,slob_slop_3,slob,slop,24,_,.mp3,slob_slop_3_24.mp3
 36,snag_snack_3,snag,snack,23,_,.mp3,snag_snack_3_23.mp3
 37,sob_sop_3,sob,sop,24,_,.mp3,sob_sop_3_24.mp3
 38,swab_swap_3,swab,swap,21,_,.mp3,swab_swap_3_21.mp3
@@ -117,7 +117,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 116,slab_slap_1,slab,slap,17,_,.mp3,slab_slap_1_17.mp3
 117,slid_slit_1,slid,slit,18,_,.mp3,slid_slit_1_18.mp3
 118,slide_slight_3,slide,slight,16,_,.mp3,slide_slight_3_16.mp3
-119,slop_slop_3,slob,slop,18,_,.mp3,slop_slop_3_18.mp3
+119,slob_slop_3,slob,slop,18,_,.mp3,slob_slop_3_18.mp3
 120,snag_snack_3,snag,snack,17,_,.mp3,snag_snack_3_17.mp3
 121,sob_sop_3,sob,sop,18,_,.mp3,sob_sop_3_18.mp3
 122,swab_swap_3,swab,swap,15,_,.mp3,swab_swap_3_15.mp3
@@ -201,7 +201,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 200,slab_slap_1,slab,slap,19,_,.mp3,slab_slap_1_19.mp3
 201,slid_slit_1,slid,slit,20,_,.mp3,slid_slit_1_20.mp3
 202,slide_slight_3,slide,slight,18,_,.mp3,slide_slight_3_18.mp3
-203,slop_slop_3,slob,slop,20,_,.mp3,slop_slop_3_20.mp3
+203,slob_slop_3,slob,slop,20,_,.mp3,slob_slop_3_20.mp3
 204,snag_snack_3,snag,snack,19,_,.mp3,snag_snack_3_19.mp3
 205,sob_sop_3,sob,sop,20,_,.mp3,sob_sop_3_20.mp3
 206,swab_swap_3,swab,swap,17,_,.mp3,swab_swap_3_17.mp3
@@ -285,7 +285,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 284,slab_slap_1,slab,slap,21,_,.mp3,slab_slap_1_21.mp3
 285,slid_slit_1,slid,slit,22,_,.mp3,slid_slit_1_22.mp3
 286,slide_slight_3,slide,slight,20,_,.mp3,slide_slight_3_20.mp3
-287,slop_slop_3,slob,slop,22,_,.mp3,slop_slop_3_22.mp3
+287,slob_slop_3,slob,slop,22,_,.mp3,slob_slop_3_22.mp3
 288,snag_snack_3,snag,snack,21,_,.mp3,snag_snack_3_21.mp3
 289,sob_sop_3,sob,sop,22,_,.mp3,sob_sop_3_22.mp3
 290,swab_swap_3,swab,swap,19,_,.mp3,swab_swap_3_19.mp3
@@ -369,7 +369,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 368,slab_slap_1,slab,slap,25,_,.mp3,slab_slap_1_25.mp3
 369,slid_slit_1,slid,slit,26,_,.mp3,slid_slit_1_26.mp3
 370,slide_slight_3,slide,slight,24,_,.mp3,slide_slight_3_24.mp3
-371,slop_slop_3,slob,slop,26,_,.mp3,slop_slop_3_26.mp3
+371,slob_slop_3,slob,slop,26,_,.mp3,slob_slop_3_26.mp3
 372,snag_snack_3,snag,snack,25,_,.mp3,snag_snack_3_25.mp3
 373,sob_sop_3,sob,sop,26,_,.mp3,sob_sop_3_26.mp3
 374,swab_swap_3,swab,swap,23,_,.mp3,swab_swap_3_23.mp3
@@ -453,7 +453,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 452,slab_slap_1,slab,slap,27,_,.mp3,slab_slap_1_27.mp3
 453,slid_slit_1,slid,slit,28,_,.mp3,slid_slit_1_28.mp3
 454,slide_slight_3,slide,slight,26,_,.mp3,slide_slight_3_26.mp3
-455,slop_slop_3,slob,slop,28,_,.mp3,slop_slop_3_28.mp3
+455,slob_slop_3,slob,slop,28,_,.mp3,slob_slop_3_28.mp3
 456,snag_snack_3,snag,snack,27,_,.mp3,snag_snack_3_27.mp3
 457,sob_sop_3,sob,sop,28,_,.mp3,sob_sop_3_28.mp3
 458,swab_swap_3,swab,swap,25,_,.mp3,swab_swap_3_25.mp3
@@ -537,7 +537,7 @@ index,set,voiced,voiceless,step,underscore,extension,path
 536,slab_slap_1,slab,slap,29,_,.mp3,slab_slap_1_29.mp3
 537,slid_slit_1,slid,slit,30,_,.mp3,slid_slit_1_30.mp3
 538,slide_slight_3,slide,slight,28,_,.mp3,slide_slight_3_28.mp3
-539,slop_slop_3,slob,slop,30,_,.mp3,slop_slop_3_30.mp3
+539,slob_slop_3,slob,slop,30,_,.mp3,slob_slop_3_30.mp3
 540,snag_snack_3,snag,snack,29,_,.mp3,snag_snack_3_29.mp3
 541,sob_sop_3,sob,sop,30,_,.mp3,sob_sop_3_30.mp3
 542,swab_swap_3,swab,swap,27,_,.mp3,swab_swap_3_27.mp3
