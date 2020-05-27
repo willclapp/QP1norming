@@ -3,11 +3,11 @@ function make_slides(f) {
   var   slides = {};
 
   slides.i0 = slide({
-   name : "i0",
-   start: function() {
-    exp.startT = Date.now();
-  }
-});
+    name : "i0",
+    start: function() {
+      exp.startT = Date.now();
+    }
+  });
 
   slides.instructions = slide({
     name : "instructions",
@@ -19,7 +19,7 @@ function make_slides(f) {
 
   slides.onset = slide({
     name: "onset",
-    present: exp.onset_trial_stimuli,
+    present: exp.onset_trial_stims,
     present_handle: function(stim) {
       $(".err").hide();
       this.stim = stim;
@@ -36,11 +36,11 @@ function make_slides(f) {
       var voiced_option = build_trial_option(stim.voiced, "voiced")
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
-      
+
       $(".display_condition")
       .append(audio)
 
-      $(".trial_options_container")
+      $(".onset_options_container")
       .append(options[0])
       .append(options[1])
     },
@@ -52,7 +52,7 @@ function make_slides(f) {
       } else {
         // play continuation audio
         // cleanup
-        $(".trial_options_container").children().remove()
+        $(".onset_options_container").children().remove()
         this.log_responses();
         _stream.apply(this);
       }
@@ -75,7 +75,7 @@ function make_slides(f) {
 
   slides.coda = slide({
     name: "coda",
-    present: exp.coda_trial_stimuli,
+    present: exp.coda_trial_stims,
     present_handle: function(stim) {
       $(".err").hide();
       this.stim = stim;
@@ -96,7 +96,7 @@ function make_slides(f) {
       $(".display_condition")
       .append(audio)
 
-      $(".trial_options_container")
+      $(".coda_options_container")
       .append(options[0])
       .append(options[1])
     },
@@ -108,7 +108,7 @@ function make_slides(f) {
       } else {
         // play continuation audio
         // cleanup
-        $(".trial_options_container").children().remove()
+        $(".coda_options_container").children().remove()
         this.log_responses();
         _stream.apply(this);
       }
@@ -201,3 +201,10 @@ function init() {
 
   exp.go(); //show first slide
 }
+
+
+
+
+
+
+
