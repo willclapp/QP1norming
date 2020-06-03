@@ -1,3 +1,5 @@
+
+
 function make_slides(f) {
   preload(assetPaths, { after: function() {console.log(`all ${assetPaths.length} assets preloaded`)}})
   var   slides = {};
@@ -29,6 +31,7 @@ function make_slides(f) {
         .attr("src", "audio/onset/" + stim.path)
         .attr("autoplay", true)
         .on("ended", function() {
+          $(".display_condition_onset").children().remove()
           $(".trial_button")
             .attr("disabled", false)
         })
@@ -37,7 +40,7 @@ function make_slides(f) {
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
-      $(".display_condition")
+      $(".display_condition_onset")
       .append(audio)
 
       $(".onset_options_container")
@@ -85,6 +88,7 @@ function make_slides(f) {
       .attr("src", "audio/coda/" + stim.path)
       .attr("autoplay", true)
       .on("ended", function() {
+        $(".display_condition_coda").children().remove()
         $(".trial_button")
         .attr("disabled", false)
       })
@@ -93,7 +97,7 @@ function make_slides(f) {
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
-      $(".display_condition")
+      $(".display_condition_coda")
       .append(audio)
 
       $(".coda_options_container")

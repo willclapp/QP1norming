@@ -29,6 +29,7 @@ function make_slides(f) {
       .attr("src", "audio/" + stim.path)
       .attr("autoplay", true)
       .on("ended", function() {
+        $(".display_condition_trial").children().remove()
         $(".trial_button")
         .attr("disabled", false)
       })
@@ -37,7 +38,7 @@ function make_slides(f) {
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
-      $(".display_condition")
+      $(".display_condition_trial")
       .append(audio)
 
       $(".trial_options_container")

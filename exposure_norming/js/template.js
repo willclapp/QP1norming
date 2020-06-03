@@ -17,18 +17,19 @@ function make_slides(f) {
   });
 
 
-  slides.onset = slide({
-    name: "onset",
-    present: exp.onset_trial_stims,
+  slides.word = slide({
+    name: "word",
+    present: exp.word_trial_stims,
     present_handle: function(stim) {
       $(".err").hide();
       this.stim = stim;
       $(".trial_button")
         .attr("disabled", true)
       var audio = $("<audio />")
-        .attr("src", "audio/onset/" + stim.path)
+        .attr("src", "audio/word/" + stim.path)
         .attr("autoplay", true)
         .on("ended", function() {
+          $(".display_condition_word").children().remove()
           $(".trial_button")
             .attr("disabled", false)
         })
@@ -37,10 +38,10 @@ function make_slides(f) {
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
-      $(".display_condition")
+      $(".display_condition_word")
       .append(audio)
 
-      $(".onset_options_container")
+      $(".word_options_container")
       .append(options[0])
       .append(options[1])
     },
@@ -52,7 +53,7 @@ function make_slides(f) {
       } else {
         // play continuation audio
         // cleanup
-        $(".onset_options_container").children().remove()
+        $(".word_options_container").children().remove()
         this.log_responses();
         _stream.apply(this);
       }
@@ -73,18 +74,19 @@ function make_slides(f) {
     }
   })
 
-  slides.coda = slide({
-    name: "coda",
-    present: exp.coda_trial_stims,
+  slides.nonword = slide({
+    name: "nonword",
+    present: exp.nonword_trial_stims,
     present_handle: function(stim) {
       $(".err").hide();
       this.stim = stim;
       $(".trial_button")
       .attr("disabled", true)
       var audio = $("<audio />")
-      .attr("src", "audio/coda/" + stim.path)
+      .attr("src", "audio/nonword/" + stim.path)
       .attr("autoplay", true)
       .on("ended", function() {
+        $(".display_condition_nonword").children().remove()
         $(".trial_button")
         .attr("disabled", false)
       })
@@ -93,10 +95,10 @@ function make_slides(f) {
       var voiceless_option = build_trial_option(stim.voiceless, "voiceless")
       var options = _.shuffle([voiced_option, voiceless_option])
 
-      $(".display_condition")
+      $(".display_condition_nonword")
       .append(audio)
 
-      $(".coda_options_container")
+      $(".nonword_options_container")
       .append(options[0])
       .append(options[1])
     },
@@ -108,7 +110,7 @@ function make_slides(f) {
       } else {
         // play continuation audio
         // cleanup
-        $(".coda_options_container").children().remove()
+        $(".nonword_options_container").children().remove()
         this.log_responses();
         _stream.apply(this);
       }
@@ -167,8 +169,8 @@ function init() {
 
   exp.uuid = uuidv4()
   // variables imported from stims.js
-  exp.onset_trial_stims = _.shuffle(onset_trial_stimuli)
-  exp.coda_trial_stims = _.shuffle(coda_trial_stimuli)
+  exp.word_trial_stims = _.shuffle(word_trial_stimuli)
+  exp.nonword_trial_stims = _.shuffle(nonword_trial_stimuli)
   exp.system = {
     Browser : BrowserDetect.browser,
     OS : BrowserDetect.OS,
@@ -178,7 +180,7 @@ function init() {
     screenUW: exp.width
   };
   //blocks of the experiment:
-  exp.structure=["i0", "instructions", "onset", "second_instructions", "coda", 'subj_info', 'thanks'];
+  exp.structure=["i0", "instructions", "word", "second_instructions", "nonword", 'subj_info', 'thanks'];
 
   exp.data_trials = [];
   //make corresponding slides:

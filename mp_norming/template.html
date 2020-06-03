@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Title of This Experiment</title>
+    <title>Word categorization</title>
 
     <!--JS-->
 
@@ -39,6 +39,17 @@
     <script src="js/stims.js"></script>
     <script src="js/template.js"></script>
 
+    <!-- This one makes it so you can hit enter to advance -->
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $(document).on("keypress", function(e) {
+          if (e.which === 13) {
+            _s.button()
+          }
+        })
+      })
+    </script>
+
 </head>
 
 <body onload="init();">
@@ -47,9 +58,15 @@
   <div class="slide" id="i0" >
     <img src="shared/images/stanford.png" alt="Stanford CoCoLab" id="cocologo"></img>
     <p id="cocolab">Stanford Linguistics</p>
-    <p id="instruct-text">In this experiment, you'll hear words and then be asked to select which word you heard. Please proceed only if you're a native English speaker working in a quiet area and listening on headphones. The HIT should take about 6 minutes. Please listen carefully, thanks!</p>
+    <p id="instruct-text">In this experiment, you'll hear words and then be asked to select which word you heard. Please proceed only if you're a native English speaker working in a quiet area and listening on headphones. The HIT should take about 20 minutes. Please listen carefully, thanks!</p>
     <button id="start_button" type="button">Start Experiment</button>
-    <p id="legal">Legal information: By answering the following questions, you are participating in a study being performed by linguists in the Stanford Department of Linguistics. If you have questions about this research, please contact William Clapp at <a href="mailto://wsclapp@stanford.edu">wsclapp@stanford.edu</a>. You must be  at least 18 years old to participate. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.</p>
+    <p id="legal">
+      <font size="2">
+
+      We invite you to participate in a research study on language production and comprehension. Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game. <br><br>There are no risks or benefits of any kind involved in this study. <br><br>You will be paid for your participation at the posted rate. <br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written dataresulting from the study.      You may print this form for your records.<br><br>CONTACT INFORMATION: If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Meghan Sumner at (650)-725-9336. If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.
+        </font>
+
+    </p>
   </div>
 
   <div class="slide" id="instructions">
