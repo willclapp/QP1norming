@@ -1,6 +1,6 @@
 #!/bin/sh
 
-arr=("./redo_norming/audio/mp/*" "./redo_norming/audio/possible_nonword/*")
+arr=("./redo_norming/audio/possible_nonword/*")
 
 # arr=("experiment_no_shift/audio/context/*")
 
