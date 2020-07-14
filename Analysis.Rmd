@@ -1,0 +1,230 @@
+---
+title: "Norming_analysis"
+author: "Will Clapp"
+date: "6/23/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(psych)
+```
+
+
+
+
+```{r}
+df.cat_people <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/cat_norming/mturk/experiment-subject_information.csv")
+
+df.exposure_people <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/exposure_norming/mturk/experiment-subject_information.csv")
+
+df.mp_people <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/mp_norming/mturk/experiment-subject_information.csv")
+
+df.cat <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/cat_norming/mturk/experiment-trials.csv")
+
+df.exposure <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/exposure_norming/mturk/experiment-trials.csv")
+
+df.mp <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/mp_norming/mturk/experiment-trials.csv")
+```
+
+
+
+```{r}
+df.subjects <- rbind(df.cat_people, df.exposure_people, df.mp_people)
+
+summary(df.subjects)
+
+```
+
+Recode so that 0 = voiceless and 1 = voiced
+```{r}
+df.cat <- df.cat %>% 
+  mutate("response_01" = ifelse(response == "voiced", 1, 0))
+
+df.exposure <- df.exposure %>% 
+  mutate("response_01" = ifelse(response == "voiced", 1, 0))
+
+df.mp <- df.mp %>% 
+  mutate("response_01" = ifelse(response == "voiced", 1, 0))
+```
+
+
+
+Filter out bad participants from categorization. Cut off time 6 minutes. One participant gone.
+
+
+```{r}
+summary(df.cat)
+
+df.cat_bad <- df.cat %>% 
+  filter(Answer.time_in_minutes < 6)
+
+df.cat_good <- df.cat %>% 
+  filter(Answer.time_in_minutes > 6)
+```
+
+Separate into coda and onset where onset is slide_order < 84
+
+```{r}
+df.cat_onset <- df.cat_good %>% 
+  filter(slide_order < 84)
+
+df.cat_coda <- df.cat_good %>% 
+  filter(slide_order > 84)
+
+```
+
+
+
+Visualize all for categorization
+```{r}
+df.mean_cat_onset <- df.cat_onset %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+df.mean_cat_coda <- df.cat_coda %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+ggplot(data = df.mean_cat_onset,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+ggplot(data = df.mean_cat_coda,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+
+
+```
+
+
+Filter out bad participants from exposure. Cut off time 10 minutes. Two participants gone.
+
+
+```{r}
+summary(df.exposure)
+
+ggplot(data = df.exposure,
+       mapping = aes(x = workerid,
+                     y = Answer.time_in_minutes)) + 
+  geom_point()
+
+df.exp_bad <- df.exposure %>% 
+  filter(Answer.time_in_minutes < 10)
+
+df.exp_good <- df.exposure %>% 
+  filter(Answer.time_in_minutes > 10)
+```
+
+slideorder less than 200
+
+```{r}
+df.exp_word <- df.exp_good %>% 
+  filter(slide_order < 200)
+
+df.exp_nonword <- df.exp_good %>% 
+  filter(slide_order > 200)
+
+```
+
+Visualize all for exposure
+```{r}
+df.mean_exp_word <- df.exp_word %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+df.mean_exp_nonword <- df.exp_nonword %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+
+ggplot(data = df.mean_exp_word,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_grid(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+ggplot(data = df.mean_exp_nonword,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+
+
+```
+
+
+
+
+
+STart for minimal pairs
+
+Filter out bad participants. Cut off time 16 minutes. No participants gone
+
+
+```{r}
+summary(df.mp)
+
+ggplot(data = df.mp,
+       mapping = aes(x = workerid,
+                     y = Answer.time_in_minutes)) + 
+  geom_point()
+
+```
+
+<!-- path first  -->
+
+<!-- ```{r} -->
+<!-- df.mp_onset <- df.mp %>%  -->
+<!--   filter(path[1] == 'b') -->
+
+<!-- df.exp_nonword <- df.exp_good %>%  -->
+<!--   filter(slide_order > 200) -->
+
+<!-- ``` -->
+
+Visualize all for mp
+```{r}
+df.mean_mp <- df.mp %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+
+
+ggplot(data = df.mean_mp,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+
+
+
+
+```

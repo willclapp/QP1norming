@@ -31,7 +31,7 @@ function make_slides(f) {
         .attr("src", "audio/onset/" + stim.path)
         .attr("autoplay", true)
         .on("ended", function() {
-          $(".display_condition_onset").children().remove()
+          $(".displ ay_condition_onset").children().remove()
           $(".trial_button")
             .attr("disabled", false)
         })
