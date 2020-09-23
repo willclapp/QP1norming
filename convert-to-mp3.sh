@@ -1,8 +1,6 @@
 #!/bin/sh
 
-arr=("./redo_norming/audio/possible_nonword/*")
-
-# arr=("experiment_no_shift/audio/context/*")
+arr=("./redo_norming/audio/possible_nonword2/*")
 
 for d in "${arr[@]}"; do
 	echo "converting audio in ${d}"

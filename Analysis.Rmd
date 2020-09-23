@@ -228,3 +228,123 @@ ggplot(data = df.mean_mp,
 
 
 ```
+
+```{r}
+df.redo <- read.csv("/Users/willclapp/Desktop/QP1/QP1norming/redo_norming/mturk/experiment-trials.csv")
+
+df.redo <- df.redo %>% 
+  mutate("response_01" = ifelse(response == "voiced", 1, 0))
+
+summary(df.redo)
+
+df.redo_bad <- df.redo %>% 
+  filter(Answer.time_in_minutes < 10)
+
+df.redo <- df.redo %>% 
+  filter(Answer.time_in_minutes > 10)
+
+
+df.mean_redo <- df.redo %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+ggplot(data = df.mean_redo,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+```
+
+
+```{r}
+
+
+
+df.big_mp = rbind(df.mp, df.redo)
+
+df.big_mp <-  df.big_mp %>% 
+  filter(set == "dame_tame_1" | set == "dough_toe_3" | set == "doom_toom_3" | set == "drain_train_1" | set == "gale_kale_1" | set == "grime_crime_3")
+
+
+df.mean_big_mp <- df.big_mp %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+
+ggplot(data = df.mean_big_mp,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+# ggsave("/Users/willclapp/Desktop/QP1/QP1norming/redo_norming/plot2.pdf", height = 25, width = 30)
+
+```
+
+
+
+```{r}
+df.big_exp = rbind(df.exp_good, df.redo)
+
+df.big_exp <-  df.big_exp %>% 
+  filter(set == "Ballerina_Pallerina_1" | set == "Berform_Perform_3" | set == "bimmel_pimmel_1")
+
+df.mean_big_exp <- df.big_exp %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+
+ggplot(data = df.mean_big_exp,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+# ggsave("/Users/willclapp/Desktop/QP1/QP1norming/redo_norming/plot2.pdf", height = 25, width = 30)
+
+
+```
+
+
+
+
+
+remaining
+
+```{r}
+
+df.redo_remain <- df.redo %>% 
+  filter(set == "bemmela_pemmela_3" | set == "Beninsula_Peninsula_3")
+
+
+df.mean_remain <- df.redo_remain %>% 
+  group_by(set, step) %>% 
+  summarise(response = mean(response_01))
+
+
+ggplot(data = df.mean_remain,
+       mapping = aes(x = step,
+                     y = response)) +
+  geom_point() +
+  geom_hline(yintercept=0.5) +
+  geom_smooth(method = "lm") +
+  facet_wrap(~set) +
+  ylim(0,1) +
+  scale_x_continuous(breaks = seq(0,30,1))
+
+
+```
+
