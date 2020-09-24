@@ -845,853 +845,13 @@ var trial_stimuli = [
     "set": "ab_app_1",
     "voiced": "ab",
     "voiceless": "app",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ab_app_1_14.mp3"
-  },
-  {
-    "index": "86",
-    "set": "abe_ape_1",
-    "voiced": "abe",
-    "voiceless": "ape",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "abe_ape_1_18.mp3"
-  },
-  {
-    "index": "87",
-    "set": "chug_chuck_3",
-    "voiced": "chug",
-    "voiceless": "chuck",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "chug_chuck_3_18.mp3"
-  },
-  {
-    "index": "88",
-    "set": "fade_fate_3",
-    "voiced": "fade",
-    "voiceless": "fate",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "fade_fate_3_14.mp3"
-  },
-  {
-    "index": "89",
-    "set": "feed_feet_1",
-    "voiced": "feed",
-    "voiceless": "feet",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "feed_feet_1_16.mp3"
-  },
-  {
-    "index": "90",
-    "set": "flab_flap_1",
-    "voiced": "flab",
-    "voiceless": "flap",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "flab_flap_1_18.mp3"
-  },
-  {
-    "index": "91",
-    "set": "flag_flack_1",
-    "voiced": "flag",
-    "voiceless": "flack",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "flag_flack_1_18.mp3"
-  },
-  {
-    "index": "92",
-    "set": "ford_fort_1",
-    "voiced": "ford",
-    "voiceless": "fort",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ford_fort_1_18.mp3"
-  },
-  {
-    "index": "93",
-    "set": "hard_heart_1",
-    "voiced": "hard",
-    "voiceless": "heart",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hard_heart_1_18.mp3"
-  },
-  {
-    "index": "94",
-    "set": "hide_height_3",
-    "voiced": "hide",
-    "voiceless": "height",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hide_height_3_16.mp3"
-  },
-  {
-    "index": "95",
-    "set": "hug_huck_1",
-    "voiced": "hug",
-    "voiceless": "huck",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hug_huck_1_15.mp3"
-  },
-  {
-    "index": "96",
-    "set": "lab_lap_3",
-    "voiced": "lab",
-    "voiceless": "lap",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lab_lap_3_17.mp3"
-  },
-  {
-    "index": "97",
-    "set": "lag_lack_1",
-    "voiced": "lag",
-    "voiceless": "lack",
-    "step": "9",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lag_lack_1_9.mp3"
-  },
-  {
-    "index": "98",
-    "set": "league_leak_1",
-    "voiced": "league",
-    "voiceless": "leak",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "league_leak_1_12.mp3"
-  },
-  {
-    "index": "99",
-    "set": "lob_lop_3",
-    "voiced": "lob",
-    "voiceless": "lop",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lob_lop_3_14.mp3"
-  },
-  {
-    "index": "100",
-    "set": "lube_loop_3",
-    "voiced": "lube",
-    "voiceless": "loop",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lube_loop_3_14.mp3"
-  },
-  {
-    "index": "101",
-    "set": "lug_luck_1",
-    "voiced": "lug",
-    "voiceless": "luck",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lug_luck_1_15.mp3"
-  },
-  {
-    "index": "102",
-    "set": "mob_mop_3",
-    "voiced": "mob",
-    "voiceless": "mop",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mob_mop_3_17.mp3"
-  },
-  {
-    "index": "103",
-    "set": "mound_mount_1",
-    "voiced": "mound",
-    "voiceless": "mount",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mound_mount_1_16.mp3"
-  },
-  {
-    "index": "104",
-    "set": "mug_muck_3",
-    "voiced": "mug",
-    "voiceless": "muck",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mug_muck_3_18.mp3"
-  },
-  {
-    "index": "105",
-    "set": "nag_knack_3",
-    "voiced": "nag",
-    "voiceless": "knack",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "nag_knack_3_18.mp3"
-  },
-  {
-    "index": "106",
-    "set": "nab_nap_1",
-    "voiced": "nab",
-    "voiceless": "nap",
-    "step": "10",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "nab_nap_1_10.mp3"
-  },
-  {
-    "index": "107",
-    "set": "rag_rack_3",
-    "voiced": "rag",
-    "voiceless": "rack",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rag_rack_3_16.mp3"
-  },
-  {
-    "index": "108",
-    "set": "rib_rip_3",
-    "voiced": "rib",
-    "voiceless": "rip",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rib_rip_3_17.mp3"
-  },
-  {
-    "index": "109",
-    "set": "ride_write_3",
-    "voiced": "ride",
-    "voiceless": "write",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ride_write_3_17.mp3"
-  },
-  {
-    "index": "110",
-    "set": "rig_rick_3",
-    "voiced": "rig",
-    "voiceless": "rick",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rig_rick_3_15.mp3"
-  },
-  {
-    "index": "111",
-    "set": "robe_rope_3",
-    "voiced": "robe",
-    "voiceless": "rope",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "robe_rope_3_17.mp3"
-  },
-  {
-    "index": "112",
-    "set": "sag_sack_1",
-    "voiced": "sag",
-    "voiceless": "sack",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "sag_sack_1_16.mp3"
-  },
-  {
-    "index": "113",
-    "set": "seed_seat_3",
-    "voiced": "seed",
-    "voiceless": "seat",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "seed_seat_3_16.mp3"
-  },
-  {
-    "index": "114",
-    "set": "send_sent_3",
-    "voiced": "send",
-    "voiceless": "sent",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "send_sent_3_15.mp3"
-  },
-  {
-    "index": "115",
-    "set": "shag_shack_3",
-    "voiced": "shag",
-    "voiceless": "shack",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "shag_shack_3_17.mp3"
-  },
-  {
-    "index": "116",
-    "set": "slab_slap_1",
-    "voiced": "slab",
-    "voiceless": "slap",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slab_slap_1_17.mp3"
-  },
-  {
-    "index": "117",
-    "set": "slid_slit_1",
-    "voiced": "slid",
-    "voiceless": "slit",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slid_slit_1_18.mp3"
-  },
-  {
-    "index": "118",
-    "set": "slide_slight_3",
-    "voiced": "slide",
-    "voiceless": "slight",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slide_slight_3_16.mp3"
-  },
-  {
-    "index": "119",
-    "set": "slob_slop_3",
-    "voiced": "slob",
-    "voiceless": "slop",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slob_slop_3_18.mp3"
-  },
-  {
-    "index": "120",
-    "set": "snag_snack_3",
-    "voiced": "snag",
-    "voiceless": "snack",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "snag_snack_3_17.mp3"
-  },
-  {
-    "index": "121",
-    "set": "sob_sop_3",
-    "voiced": "sob",
-    "voiceless": "sop",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "sob_sop_3_18.mp3"
-  },
-  {
-    "index": "122",
-    "set": "swab_swap_3",
-    "voiced": "swab",
-    "voiceless": "swap",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "swab_swap_3_15.mp3"
-  },
-  {
-    "index": "123",
-    "set": "wed_wet_3",
-    "voiced": "wed",
-    "voiceless": "wet",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "wed_wet_3_14.mp3"
-  },
-  {
-    "index": "124",
-    "set": "weed_wheat_3",
-    "voiced": "weed",
-    "voiceless": "wheat",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "weed_wheat_3_16.mp3"
-  },
-  {
-    "index": "125",
-    "set": "whig_wick_1",
-    "voiced": "whig",
-    "voiceless": "wick",
-    "step": "5",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "whig_wick_1_5.mp3"
-  },
-  {
-    "index": "126",
-    "set": "wide_white_3",
-    "voiced": "wide",
-    "voiceless": "white",
-    "step": "8",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "wide_white_3_8.mp3"
-  },
-  {
-    "index": "127",
-    "set": "ban_pan_1",
-    "voiced": "ban",
-    "voiceless": "pan",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ban_pan_1_11.mp3"
-  },
-  {
-    "index": "128",
-    "set": "barrel_peril_3",
-    "voiced": "barrel",
-    "voiceless": "peril",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "barrel_peril_3_17.mp3"
-  },
-  {
-    "index": "129",
-    "set": "bay_pay_1",
-    "voiced": "bay",
-    "voiceless": "pay",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bay_pay_1_13.mp3"
-  },
-  {
-    "index": "130",
-    "set": "bear_pair_1",
-    "voiced": "bear",
-    "voiceless": "pair",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bear_pair_1_12.mp3"
-  },
-  {
-    "index": "131",
-    "set": "beer_peer_1",
-    "voiced": "beer",
-    "voiceless": "peer",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "beer_peer_1_11.mp3"
-  },
-  {
-    "index": "132",
-    "set": "bin_pin_3",
-    "voiced": "bin",
-    "voiceless": "pin",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bin_pin_3_14.mp3"
-  },
-  {
-    "index": "133",
-    "set": "bloom_plume_3",
-    "voiced": "bloom",
-    "voiceless": "plume",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bloom_plume_3_17.mp3"
-  },
-  {
-    "index": "134",
-    "set": "bony_pony_1",
-    "voiced": "bony",
-    "voiceless": "pony",
-    "step": "7",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bony_pony_1_7.mp3"
-  },
-  {
-    "index": "135",
-    "set": "bore_pore_1",
-    "voiced": "bore",
-    "voiceless": "pore",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bore_pore_1_16.mp3"
-  },
-  {
-    "index": "136",
-    "set": "bowl_pole_1",
-    "voiced": "bowl",
-    "voiceless": "pole",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bowl_pole_1_15.mp3"
-  },
-  {
-    "index": "137",
-    "set": "bull_pull_3",
-    "voiced": "bull",
-    "voiceless": "pull",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bull_pull_3_15.mp3"
-  },
-  {
-    "index": "138",
-    "set": "bully_pulley_3",
-    "voiced": "bully",
-    "voiceless": "pulley",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bully_pulley_3_13.mp3"
-  },
-  {
-    "index": "139",
-    "set": "bun_pun_3",
-    "voiced": "bun",
-    "voiceless": "pun",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bun_pun_3_11.mp3"
-  },
-  {
-    "index": "140",
-    "set": "burly_pearly_3",
-    "voiced": "burly",
-    "voiceless": "pearly",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "burly_pearly_3_14.mp3"
-  },
-  {
-    "index": "141",
-    "set": "dame_tame_1",
-    "voiced": "dame",
-    "voiceless": "tame",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dame_tame_1_13.mp3"
-  },
-  {
-    "index": "142",
-    "set": "dare_tear_1",
-    "voiced": "dare",
-    "voiceless": "tear",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dare_tear_1_14.mp3"
-  },
-  {
-    "index": "143",
-    "set": "deal_teal_1",
-    "voiced": "deal",
-    "voiceless": "teal",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "deal_teal_1_11.mp3"
-  },
-  {
-    "index": "144",
-    "set": "dial_tile_1",
-    "voiced": "dial",
-    "voiceless": "tile",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dial_tile_1_15.mp3"
-  },
-  {
-    "index": "145",
-    "set": "die_tie_1",
-    "voiced": "die",
-    "voiceless": "tie",
-    "step": "18",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "die_tie_1_18.mp3"
-  },
-  {
-    "index": "146",
-    "set": "dime_time_3",
-    "voiced": "dime",
-    "voiceless": "time",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dime_time_3_17.mp3"
-  },
-  {
-    "index": "147",
-    "set": "din_tin_3",
-    "voiced": "din",
-    "voiceless": "tin",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "din_tin_3_13.mp3"
-  },
-  {
-    "index": "148",
-    "set": "doll_tall_3",
-    "voiced": "doll",
-    "voiceless": "tall",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "doll_tall_3_14.mp3"
-  },
-  {
-    "index": "149",
-    "set": "dollar_taller_3",
-    "voiced": "dollar",
-    "voiceless": "taller",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dollar_taller_3_15.mp3"
-  },
-  {
-    "index": "150",
-    "set": "doom_toom_3",
-    "voiced": "doom",
-    "voiceless": "tomb",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "doom_toom_3_12.mp3"
-  },
-  {
-    "index": "151",
-    "set": "dough_toe_3",
-    "voiced": "dough",
-    "voiceless": "toe",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dough_toe_3_15.mp3"
-  },
-  {
-    "index": "152",
-    "set": "drain_train_1",
-    "voiced": "drain",
-    "voiceless": "train",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "drain_train_1_11.mp3"
-  },
-  {
-    "index": "153",
-    "set": "dry_try_3",
-    "voiced": "dry",
-    "voiceless": "try",
-    "step": "10",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dry_try_3_10.mp3"
-  },
-  {
-    "index": "154",
-    "set": "duel_tool_1",
-    "voiced": "duel",
-    "voiceless": "tool",
-    "step": "10",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "duel_tool_1_10.mp3"
-  },
-  {
-    "index": "155",
-    "set": "gain_cane_3",
-    "voiced": "gain",
-    "voiceless": "cane",
-    "step": "15",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gain_cane_3_15.mp3"
-  },
-  {
-    "index": "156",
-    "set": "gale_kale_1",
-    "voiced": "gale",
-    "voiceless": "kale",
-    "step": "16",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gale_kale_1_16.mp3"
-  },
-  {
-    "index": "157",
-    "set": "gallery_calorie_3",
-    "voiced": "gallery",
-    "voiceless": "calorie",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gallery_calorie_3_14.mp3"
-  },
-  {
-    "index": "158",
-    "set": "game_came_3",
-    "voiced": "game",
-    "voiceless": "came",
-    "step": "8",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "game_came_3_8.mp3"
-  },
-  {
-    "index": "159",
-    "set": "girly_curly_3",
-    "voiced": "girly",
-    "voiceless": "curly",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "girly_curly_3_12.mp3"
-  },
-  {
-    "index": "160",
-    "set": "glue_clue_3",
-    "voiced": "glue",
-    "voiceless": "clue",
-    "step": "9",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "glue_clue_3_9.mp3"
-  },
-  {
-    "index": "161",
-    "set": "goal_coal_3",
-    "voiced": "goal",
-    "voiceless": "coal",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "goal_coal_3_13.mp3"
-  },
-  {
-    "index": "162",
-    "set": "gore_core_3",
-    "voiced": "gore",
-    "voiceless": "core",
-    "step": "11",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gore_core_3_11.mp3"
-  },
-  {
-    "index": "163",
-    "set": "grain_crain_3",
-    "voiced": "grain",
-    "voiceless": "crain",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grain_crain_3_12.mp3"
-  },
-  {
-    "index": "164",
-    "set": "grew_crew_3",
-    "voiced": "grew",
-    "voiceless": "crew",
-    "step": "14",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grew_crew_3_14.mp3"
-  },
-  {
-    "index": "165",
-    "set": "grill_krill_3",
-    "voiced": "grill",
-    "voiceless": "krill",
-    "step": "8",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grill_krill_3_8.mp3"
-  },
-  {
-    "index": "166",
-    "set": "grime_crime_3",
-    "voiced": "grime",
-    "voiceless": "crime",
-    "step": "13",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grime_crime_3_13.mp3"
-  },
-  {
-    "index": "167",
-    "set": "grow_crow_1",
-    "voiced": "grow",
-    "voiceless": "crow",
-    "step": "8",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grow_crow_1_8.mp3"
-  },
-  {
-    "index": "168",
-    "set": "gruel_cruel_3",
-    "voiced": "gruel",
-    "voiceless": "cruel",
-    "step": "12",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gruel_cruel_3_12.mp3"
-  },
-  {
-    "index": "169",
-    "set": "ab_app_1",
-    "voiced": "ab",
-    "voiceless": "app",
     "step": "16",
     "underscore": "_",
     "extension": ".mp3",
     "path": "ab_app_1_16.mp3"
   },
   {
-    "index": "170",
+    "index": "86",
     "set": "abe_ape_1",
     "voiced": "abe",
     "voiceless": "ape",
@@ -1701,7 +861,7 @@ var trial_stimuli = [
     "path": "abe_ape_1_20.mp3"
   },
   {
-    "index": "171",
+    "index": "87",
     "set": "chug_chuck_3",
     "voiced": "chug",
     "voiceless": "chuck",
@@ -1711,7 +871,7 @@ var trial_stimuli = [
     "path": "chug_chuck_3_20.mp3"
   },
   {
-    "index": "172",
+    "index": "88",
     "set": "fade_fate_3",
     "voiced": "fade",
     "voiceless": "fate",
@@ -1721,7 +881,7 @@ var trial_stimuli = [
     "path": "fade_fate_3_16.mp3"
   },
   {
-    "index": "173",
+    "index": "89",
     "set": "feed_feet_1",
     "voiced": "feed",
     "voiceless": "feet",
@@ -1731,7 +891,7 @@ var trial_stimuli = [
     "path": "feed_feet_1_18.mp3"
   },
   {
-    "index": "174",
+    "index": "90",
     "set": "flab_flap_1",
     "voiced": "flab",
     "voiceless": "flap",
@@ -1741,7 +901,7 @@ var trial_stimuli = [
     "path": "flab_flap_1_20.mp3"
   },
   {
-    "index": "175",
+    "index": "91",
     "set": "flag_flack_1",
     "voiced": "flag",
     "voiceless": "flack",
@@ -1751,7 +911,7 @@ var trial_stimuli = [
     "path": "flag_flack_1_20.mp3"
   },
   {
-    "index": "176",
+    "index": "92",
     "set": "ford_fort_1",
     "voiced": "ford",
     "voiceless": "fort",
@@ -1761,7 +921,7 @@ var trial_stimuli = [
     "path": "ford_fort_1_20.mp3"
   },
   {
-    "index": "177",
+    "index": "93",
     "set": "hard_heart_1",
     "voiced": "hard",
     "voiceless": "heart",
@@ -1771,7 +931,7 @@ var trial_stimuli = [
     "path": "hard_heart_1_20.mp3"
   },
   {
-    "index": "178",
+    "index": "94",
     "set": "hide_height_3",
     "voiced": "hide",
     "voiceless": "height",
@@ -1781,7 +941,7 @@ var trial_stimuli = [
     "path": "hide_height_3_18.mp3"
   },
   {
-    "index": "179",
+    "index": "95",
     "set": "hug_huck_1",
     "voiced": "hug",
     "voiceless": "huck",
@@ -1791,7 +951,7 @@ var trial_stimuli = [
     "path": "hug_huck_1_17.mp3"
   },
   {
-    "index": "180",
+    "index": "96",
     "set": "lab_lap_3",
     "voiced": "lab",
     "voiceless": "lap",
@@ -1801,7 +961,7 @@ var trial_stimuli = [
     "path": "lab_lap_3_19.mp3"
   },
   {
-    "index": "181",
+    "index": "97",
     "set": "lag_lack_1",
     "voiced": "lag",
     "voiceless": "lack",
@@ -1811,7 +971,7 @@ var trial_stimuli = [
     "path": "lag_lack_1_11.mp3"
   },
   {
-    "index": "182",
+    "index": "98",
     "set": "league_leak_1",
     "voiced": "league",
     "voiceless": "leak",
@@ -1821,7 +981,7 @@ var trial_stimuli = [
     "path": "league_leak_1_14.mp3"
   },
   {
-    "index": "183",
+    "index": "99",
     "set": "lob_lop_3",
     "voiced": "lob",
     "voiceless": "lop",
@@ -1831,7 +991,7 @@ var trial_stimuli = [
     "path": "lob_lop_3_16.mp3"
   },
   {
-    "index": "184",
+    "index": "100",
     "set": "lube_loop_3",
     "voiced": "lube",
     "voiceless": "loop",
@@ -1841,7 +1001,7 @@ var trial_stimuli = [
     "path": "lube_loop_3_16.mp3"
   },
   {
-    "index": "185",
+    "index": "101",
     "set": "lug_luck_1",
     "voiced": "lug",
     "voiceless": "luck",
@@ -1851,7 +1011,7 @@ var trial_stimuli = [
     "path": "lug_luck_1_17.mp3"
   },
   {
-    "index": "186",
+    "index": "102",
     "set": "mob_mop_3",
     "voiced": "mob",
     "voiceless": "mop",
@@ -1861,7 +1021,7 @@ var trial_stimuli = [
     "path": "mob_mop_3_19.mp3"
   },
   {
-    "index": "187",
+    "index": "103",
     "set": "mound_mount_1",
     "voiced": "mound",
     "voiceless": "mount",
@@ -1871,7 +1031,7 @@ var trial_stimuli = [
     "path": "mound_mount_1_18.mp3"
   },
   {
-    "index": "188",
+    "index": "104",
     "set": "mug_muck_3",
     "voiced": "mug",
     "voiceless": "muck",
@@ -1881,7 +1041,7 @@ var trial_stimuli = [
     "path": "mug_muck_3_20.mp3"
   },
   {
-    "index": "189",
+    "index": "105",
     "set": "nag_knack_3",
     "voiced": "nag",
     "voiceless": "knack",
@@ -1891,7 +1051,7 @@ var trial_stimuli = [
     "path": "nag_knack_3_20.mp3"
   },
   {
-    "index": "190",
+    "index": "106",
     "set": "nab_nap_1",
     "voiced": "nab",
     "voiceless": "nap",
@@ -1901,7 +1061,7 @@ var trial_stimuli = [
     "path": "nab_nap_1_12.mp3"
   },
   {
-    "index": "191",
+    "index": "107",
     "set": "rag_rack_3",
     "voiced": "rag",
     "voiceless": "rack",
@@ -1911,7 +1071,7 @@ var trial_stimuli = [
     "path": "rag_rack_3_18.mp3"
   },
   {
-    "index": "192",
+    "index": "108",
     "set": "rib_rip_3",
     "voiced": "rib",
     "voiceless": "rip",
@@ -1921,7 +1081,7 @@ var trial_stimuli = [
     "path": "rib_rip_3_19.mp3"
   },
   {
-    "index": "193",
+    "index": "109",
     "set": "ride_write_3",
     "voiced": "ride",
     "voiceless": "write",
@@ -1931,7 +1091,7 @@ var trial_stimuli = [
     "path": "ride_write_3_19.mp3"
   },
   {
-    "index": "194",
+    "index": "110",
     "set": "rig_rick_3",
     "voiced": "rig",
     "voiceless": "rick",
@@ -1941,7 +1101,7 @@ var trial_stimuli = [
     "path": "rig_rick_3_17.mp3"
   },
   {
-    "index": "195",
+    "index": "111",
     "set": "robe_rope_3",
     "voiced": "robe",
     "voiceless": "rope",
@@ -1951,7 +1111,7 @@ var trial_stimuli = [
     "path": "robe_rope_3_19.mp3"
   },
   {
-    "index": "196",
+    "index": "112",
     "set": "sag_sack_1",
     "voiced": "sag",
     "voiceless": "sack",
@@ -1961,7 +1121,7 @@ var trial_stimuli = [
     "path": "sag_sack_1_18.mp3"
   },
   {
-    "index": "197",
+    "index": "113",
     "set": "seed_seat_3",
     "voiced": "seed",
     "voiceless": "seat",
@@ -1971,7 +1131,7 @@ var trial_stimuli = [
     "path": "seed_seat_3_18.mp3"
   },
   {
-    "index": "198",
+    "index": "114",
     "set": "send_sent_3",
     "voiced": "send",
     "voiceless": "sent",
@@ -1981,7 +1141,7 @@ var trial_stimuli = [
     "path": "send_sent_3_17.mp3"
   },
   {
-    "index": "199",
+    "index": "115",
     "set": "shag_shack_3",
     "voiced": "shag",
     "voiceless": "shack",
@@ -1991,7 +1151,7 @@ var trial_stimuli = [
     "path": "shag_shack_3_19.mp3"
   },
   {
-    "index": "200",
+    "index": "116",
     "set": "slab_slap_1",
     "voiced": "slab",
     "voiceless": "slap",
@@ -2001,7 +1161,7 @@ var trial_stimuli = [
     "path": "slab_slap_1_19.mp3"
   },
   {
-    "index": "201",
+    "index": "117",
     "set": "slid_slit_1",
     "voiced": "slid",
     "voiceless": "slit",
@@ -2011,7 +1171,7 @@ var trial_stimuli = [
     "path": "slid_slit_1_20.mp3"
   },
   {
-    "index": "202",
+    "index": "118",
     "set": "slide_slight_3",
     "voiced": "slide",
     "voiceless": "slight",
@@ -2021,7 +1181,7 @@ var trial_stimuli = [
     "path": "slide_slight_3_18.mp3"
   },
   {
-    "index": "203",
+    "index": "119",
     "set": "slob_slop_3",
     "voiced": "slob",
     "voiceless": "slop",
@@ -2031,7 +1191,7 @@ var trial_stimuli = [
     "path": "slob_slop_3_20.mp3"
   },
   {
-    "index": "204",
+    "index": "120",
     "set": "snag_snack_3",
     "voiced": "snag",
     "voiceless": "snack",
@@ -2041,7 +1201,7 @@ var trial_stimuli = [
     "path": "snag_snack_3_19.mp3"
   },
   {
-    "index": "205",
+    "index": "121",
     "set": "sob_sop_3",
     "voiced": "sob",
     "voiceless": "sop",
@@ -2051,7 +1211,7 @@ var trial_stimuli = [
     "path": "sob_sop_3_20.mp3"
   },
   {
-    "index": "206",
+    "index": "122",
     "set": "swab_swap_3",
     "voiced": "swab",
     "voiceless": "swap",
@@ -2061,7 +1221,7 @@ var trial_stimuli = [
     "path": "swab_swap_3_17.mp3"
   },
   {
-    "index": "207",
+    "index": "123",
     "set": "wed_wet_3",
     "voiced": "wed",
     "voiceless": "wet",
@@ -2071,7 +1231,7 @@ var trial_stimuli = [
     "path": "wed_wet_3_16.mp3"
   },
   {
-    "index": "208",
+    "index": "124",
     "set": "weed_wheat_3",
     "voiced": "weed",
     "voiceless": "wheat",
@@ -2081,7 +1241,7 @@ var trial_stimuli = [
     "path": "weed_wheat_3_18.mp3"
   },
   {
-    "index": "209",
+    "index": "125",
     "set": "whig_wick_1",
     "voiced": "whig",
     "voiceless": "wick",
@@ -2091,7 +1251,7 @@ var trial_stimuli = [
     "path": "whig_wick_1_7.mp3"
   },
   {
-    "index": "210",
+    "index": "126",
     "set": "wide_white_3",
     "voiced": "wide",
     "voiceless": "white",
@@ -2101,7 +1261,7 @@ var trial_stimuli = [
     "path": "wide_white_3_10.mp3"
   },
   {
-    "index": "211",
+    "index": "127",
     "set": "ban_pan_1",
     "voiced": "ban",
     "voiceless": "pan",
@@ -2111,7 +1271,7 @@ var trial_stimuli = [
     "path": "ban_pan_1_13.mp3"
   },
   {
-    "index": "212",
+    "index": "128",
     "set": "barrel_peril_3",
     "voiced": "barrel",
     "voiceless": "peril",
@@ -2121,7 +1281,7 @@ var trial_stimuli = [
     "path": "barrel_peril_3_19.mp3"
   },
   {
-    "index": "213",
+    "index": "129",
     "set": "bay_pay_1",
     "voiced": "bay",
     "voiceless": "pay",
@@ -2131,7 +1291,7 @@ var trial_stimuli = [
     "path": "bay_pay_1_15.mp3"
   },
   {
-    "index": "214",
+    "index": "130",
     "set": "bear_pair_1",
     "voiced": "bear",
     "voiceless": "pair",
@@ -2141,7 +1301,7 @@ var trial_stimuli = [
     "path": "bear_pair_1_14.mp3"
   },
   {
-    "index": "215",
+    "index": "131",
     "set": "beer_peer_1",
     "voiced": "beer",
     "voiceless": "peer",
@@ -2151,7 +1311,7 @@ var trial_stimuli = [
     "path": "beer_peer_1_13.mp3"
   },
   {
-    "index": "216",
+    "index": "132",
     "set": "bin_pin_3",
     "voiced": "bin",
     "voiceless": "pin",
@@ -2161,7 +1321,7 @@ var trial_stimuli = [
     "path": "bin_pin_3_16.mp3"
   },
   {
-    "index": "217",
+    "index": "133",
     "set": "bloom_plume_3",
     "voiced": "bloom",
     "voiceless": "plume",
@@ -2171,7 +1331,7 @@ var trial_stimuli = [
     "path": "bloom_plume_3_19.mp3"
   },
   {
-    "index": "218",
+    "index": "134",
     "set": "bony_pony_1",
     "voiced": "bony",
     "voiceless": "pony",
@@ -2181,7 +1341,7 @@ var trial_stimuli = [
     "path": "bony_pony_1_9.mp3"
   },
   {
-    "index": "219",
+    "index": "135",
     "set": "bore_pore_1",
     "voiced": "bore",
     "voiceless": "pore",
@@ -2191,7 +1351,7 @@ var trial_stimuli = [
     "path": "bore_pore_1_18.mp3"
   },
   {
-    "index": "220",
+    "index": "136",
     "set": "bowl_pole_1",
     "voiced": "bowl",
     "voiceless": "pole",
@@ -2201,7 +1361,7 @@ var trial_stimuli = [
     "path": "bowl_pole_1_17.mp3"
   },
   {
-    "index": "221",
+    "index": "137",
     "set": "bull_pull_3",
     "voiced": "bull",
     "voiceless": "pull",
@@ -2211,7 +1371,7 @@ var trial_stimuli = [
     "path": "bull_pull_3_17.mp3"
   },
   {
-    "index": "222",
+    "index": "138",
     "set": "bully_pulley_3",
     "voiced": "bully",
     "voiceless": "pulley",
@@ -2221,7 +1381,7 @@ var trial_stimuli = [
     "path": "bully_pulley_3_15.mp3"
   },
   {
-    "index": "223",
+    "index": "139",
     "set": "bun_pun_3",
     "voiced": "bun",
     "voiceless": "pun",
@@ -2231,7 +1391,7 @@ var trial_stimuli = [
     "path": "bun_pun_3_13.mp3"
   },
   {
-    "index": "224",
+    "index": "140",
     "set": "burly_pearly_3",
     "voiced": "burly",
     "voiceless": "pearly",
@@ -2241,7 +1401,7 @@ var trial_stimuli = [
     "path": "burly_pearly_3_16.mp3"
   },
   {
-    "index": "225",
+    "index": "141",
     "set": "dame_tame_1",
     "voiced": "dame",
     "voiceless": "tame",
@@ -2251,7 +1411,7 @@ var trial_stimuli = [
     "path": "dame_tame_1_15.mp3"
   },
   {
-    "index": "226",
+    "index": "142",
     "set": "dare_tear_1",
     "voiced": "dare",
     "voiceless": "tear",
@@ -2261,7 +1421,7 @@ var trial_stimuli = [
     "path": "dare_tear_1_16.mp3"
   },
   {
-    "index": "227",
+    "index": "143",
     "set": "deal_teal_1",
     "voiced": "deal",
     "voiceless": "teal",
@@ -2271,7 +1431,7 @@ var trial_stimuli = [
     "path": "deal_teal_1_13.mp3"
   },
   {
-    "index": "228",
+    "index": "144",
     "set": "dial_tile_1",
     "voiced": "dial",
     "voiceless": "tile",
@@ -2281,7 +1441,7 @@ var trial_stimuli = [
     "path": "dial_tile_1_17.mp3"
   },
   {
-    "index": "229",
+    "index": "145",
     "set": "die_tie_1",
     "voiced": "die",
     "voiceless": "tie",
@@ -2291,7 +1451,7 @@ var trial_stimuli = [
     "path": "die_tie_1_20.mp3"
   },
   {
-    "index": "230",
+    "index": "146",
     "set": "dime_time_3",
     "voiced": "dime",
     "voiceless": "time",
@@ -2301,7 +1461,7 @@ var trial_stimuli = [
     "path": "dime_time_3_19.mp3"
   },
   {
-    "index": "231",
+    "index": "147",
     "set": "din_tin_3",
     "voiced": "din",
     "voiceless": "tin",
@@ -2311,7 +1471,7 @@ var trial_stimuli = [
     "path": "din_tin_3_15.mp3"
   },
   {
-    "index": "232",
+    "index": "148",
     "set": "doll_tall_3",
     "voiced": "doll",
     "voiceless": "tall",
@@ -2321,7 +1481,7 @@ var trial_stimuli = [
     "path": "doll_tall_3_16.mp3"
   },
   {
-    "index": "233",
+    "index": "149",
     "set": "dollar_taller_3",
     "voiced": "dollar",
     "voiceless": "taller",
@@ -2331,7 +1491,7 @@ var trial_stimuli = [
     "path": "dollar_taller_3_17.mp3"
   },
   {
-    "index": "234",
+    "index": "150",
     "set": "doom_toom_3",
     "voiced": "doom",
     "voiceless": "tomb",
@@ -2341,7 +1501,7 @@ var trial_stimuli = [
     "path": "doom_toom_3_14.mp3"
   },
   {
-    "index": "235",
+    "index": "151",
     "set": "dough_toe_3",
     "voiced": "dough",
     "voiceless": "toe",
@@ -2351,7 +1511,7 @@ var trial_stimuli = [
     "path": "dough_toe_3_17.mp3"
   },
   {
-    "index": "236",
+    "index": "152",
     "set": "drain_train_1",
     "voiced": "drain",
     "voiceless": "train",
@@ -2361,7 +1521,7 @@ var trial_stimuli = [
     "path": "drain_train_1_13.mp3"
   },
   {
-    "index": "237",
+    "index": "153",
     "set": "dry_try_3",
     "voiced": "dry",
     "voiceless": "try",
@@ -2371,7 +1531,7 @@ var trial_stimuli = [
     "path": "dry_try_3_12.mp3"
   },
   {
-    "index": "238",
+    "index": "154",
     "set": "duel_tool_1",
     "voiced": "duel",
     "voiceless": "tool",
@@ -2381,7 +1541,7 @@ var trial_stimuli = [
     "path": "duel_tool_1_12.mp3"
   },
   {
-    "index": "239",
+    "index": "155",
     "set": "gain_cane_3",
     "voiced": "gain",
     "voiceless": "cane",
@@ -2391,7 +1551,7 @@ var trial_stimuli = [
     "path": "gain_cane_3_17.mp3"
   },
   {
-    "index": "240",
+    "index": "156",
     "set": "gale_kale_1",
     "voiced": "gale",
     "voiceless": "kale",
@@ -2401,7 +1561,7 @@ var trial_stimuli = [
     "path": "gale_kale_1_18.mp3"
   },
   {
-    "index": "241",
+    "index": "157",
     "set": "gallery_calorie_3",
     "voiced": "gallery",
     "voiceless": "calorie",
@@ -2411,7 +1571,7 @@ var trial_stimuli = [
     "path": "gallery_calorie_3_16.mp3"
   },
   {
-    "index": "242",
+    "index": "158",
     "set": "game_came_3",
     "voiced": "game",
     "voiceless": "came",
@@ -2421,7 +1581,7 @@ var trial_stimuli = [
     "path": "game_came_3_10.mp3"
   },
   {
-    "index": "243",
+    "index": "159",
     "set": "girly_curly_3",
     "voiced": "girly",
     "voiceless": "curly",
@@ -2431,7 +1591,7 @@ var trial_stimuli = [
     "path": "girly_curly_3_14.mp3"
   },
   {
-    "index": "244",
+    "index": "160",
     "set": "glue_clue_3",
     "voiced": "glue",
     "voiceless": "clue",
@@ -2441,7 +1601,7 @@ var trial_stimuli = [
     "path": "glue_clue_3_11.mp3"
   },
   {
-    "index": "245",
+    "index": "161",
     "set": "goal_coal_3",
     "voiced": "goal",
     "voiceless": "coal",
@@ -2451,7 +1611,7 @@ var trial_stimuli = [
     "path": "goal_coal_3_15.mp3"
   },
   {
-    "index": "246",
+    "index": "162",
     "set": "gore_core_3",
     "voiced": "gore",
     "voiceless": "core",
@@ -2461,7 +1621,7 @@ var trial_stimuli = [
     "path": "gore_core_3_13.mp3"
   },
   {
-    "index": "247",
+    "index": "163",
     "set": "grain_crain_3",
     "voiced": "grain",
     "voiceless": "crain",
@@ -2471,7 +1631,7 @@ var trial_stimuli = [
     "path": "grain_crain_3_14.mp3"
   },
   {
-    "index": "248",
+    "index": "164",
     "set": "grew_crew_3",
     "voiced": "grew",
     "voiceless": "crew",
@@ -2481,7 +1641,7 @@ var trial_stimuli = [
     "path": "grew_crew_3_16.mp3"
   },
   {
-    "index": "249",
+    "index": "165",
     "set": "grill_krill_3",
     "voiced": "grill",
     "voiceless": "krill",
@@ -2491,7 +1651,7 @@ var trial_stimuli = [
     "path": "grill_krill_3_10.mp3"
   },
   {
-    "index": "250",
+    "index": "166",
     "set": "grime_crime_3",
     "voiced": "grime",
     "voiceless": "crime",
@@ -2501,7 +1661,7 @@ var trial_stimuli = [
     "path": "grime_crime_3_15.mp3"
   },
   {
-    "index": "251",
+    "index": "167",
     "set": "grow_crow_1",
     "voiced": "grow",
     "voiceless": "crow",
@@ -2511,7 +1671,7 @@ var trial_stimuli = [
     "path": "grow_crow_1_10.mp3"
   },
   {
-    "index": "252",
+    "index": "168",
     "set": "gruel_cruel_3",
     "voiced": "gruel",
     "voiceless": "cruel",
@@ -2521,7 +1681,7 @@ var trial_stimuli = [
     "path": "gruel_cruel_3_14.mp3"
   },
   {
-    "index": "253",
+    "index": "169",
     "set": "ab_app_1",
     "voiced": "ab",
     "voiceless": "app",
@@ -2531,7 +1691,7 @@ var trial_stimuli = [
     "path": "ab_app_1_18.mp3"
   },
   {
-    "index": "254",
+    "index": "170",
     "set": "abe_ape_1",
     "voiced": "abe",
     "voiceless": "ape",
@@ -2541,7 +1701,7 @@ var trial_stimuli = [
     "path": "abe_ape_1_22.mp3"
   },
   {
-    "index": "255",
+    "index": "171",
     "set": "chug_chuck_3",
     "voiced": "chug",
     "voiceless": "chuck",
@@ -2551,7 +1711,7 @@ var trial_stimuli = [
     "path": "chug_chuck_3_22.mp3"
   },
   {
-    "index": "256",
+    "index": "172",
     "set": "fade_fate_3",
     "voiced": "fade",
     "voiceless": "fate",
@@ -2561,7 +1721,7 @@ var trial_stimuli = [
     "path": "fade_fate_3_18.mp3"
   },
   {
-    "index": "257",
+    "index": "173",
     "set": "feed_feet_1",
     "voiced": "feed",
     "voiceless": "feet",
@@ -2571,7 +1731,7 @@ var trial_stimuli = [
     "path": "feed_feet_1_20.mp3"
   },
   {
-    "index": "258",
+    "index": "174",
     "set": "flab_flap_1",
     "voiced": "flab",
     "voiceless": "flap",
@@ -2581,7 +1741,7 @@ var trial_stimuli = [
     "path": "flab_flap_1_22.mp3"
   },
   {
-    "index": "259",
+    "index": "175",
     "set": "flag_flack_1",
     "voiced": "flag",
     "voiceless": "flack",
@@ -2591,7 +1751,7 @@ var trial_stimuli = [
     "path": "flag_flack_1_22.mp3"
   },
   {
-    "index": "260",
+    "index": "176",
     "set": "ford_fort_1",
     "voiced": "ford",
     "voiceless": "fort",
@@ -2601,7 +1761,7 @@ var trial_stimuli = [
     "path": "ford_fort_1_22.mp3"
   },
   {
-    "index": "261",
+    "index": "177",
     "set": "hard_heart_1",
     "voiced": "hard",
     "voiceless": "heart",
@@ -2611,7 +1771,7 @@ var trial_stimuli = [
     "path": "hard_heart_1_22.mp3"
   },
   {
-    "index": "262",
+    "index": "178",
     "set": "hide_height_3",
     "voiced": "hide",
     "voiceless": "height",
@@ -2621,7 +1781,7 @@ var trial_stimuli = [
     "path": "hide_height_3_20.mp3"
   },
   {
-    "index": "263",
+    "index": "179",
     "set": "hug_huck_1",
     "voiced": "hug",
     "voiceless": "huck",
@@ -2631,7 +1791,7 @@ var trial_stimuli = [
     "path": "hug_huck_1_19.mp3"
   },
   {
-    "index": "264",
+    "index": "180",
     "set": "lab_lap_3",
     "voiced": "lab",
     "voiceless": "lap",
@@ -2641,7 +1801,7 @@ var trial_stimuli = [
     "path": "lab_lap_3_21.mp3"
   },
   {
-    "index": "265",
+    "index": "181",
     "set": "lag_lack_1",
     "voiced": "lag",
     "voiceless": "lack",
@@ -2651,7 +1811,7 @@ var trial_stimuli = [
     "path": "lag_lack_1_13.mp3"
   },
   {
-    "index": "266",
+    "index": "182",
     "set": "league_leak_1",
     "voiced": "league",
     "voiceless": "leak",
@@ -2661,7 +1821,7 @@ var trial_stimuli = [
     "path": "league_leak_1_16.mp3"
   },
   {
-    "index": "267",
+    "index": "183",
     "set": "lob_lop_3",
     "voiced": "lob",
     "voiceless": "lop",
@@ -2671,7 +1831,7 @@ var trial_stimuli = [
     "path": "lob_lop_3_18.mp3"
   },
   {
-    "index": "268",
+    "index": "184",
     "set": "lube_loop_3",
     "voiced": "lube",
     "voiceless": "loop",
@@ -2681,7 +1841,7 @@ var trial_stimuli = [
     "path": "lube_loop_3_18.mp3"
   },
   {
-    "index": "269",
+    "index": "185",
     "set": "lug_luck_1",
     "voiced": "lug",
     "voiceless": "luck",
@@ -2691,7 +1851,7 @@ var trial_stimuli = [
     "path": "lug_luck_1_19.mp3"
   },
   {
-    "index": "270",
+    "index": "186",
     "set": "mob_mop_3",
     "voiced": "mob",
     "voiceless": "mop",
@@ -2701,7 +1861,7 @@ var trial_stimuli = [
     "path": "mob_mop_3_21.mp3"
   },
   {
-    "index": "271",
+    "index": "187",
     "set": "mound_mount_1",
     "voiced": "mound",
     "voiceless": "mount",
@@ -2711,7 +1871,7 @@ var trial_stimuli = [
     "path": "mound_mount_1_20.mp3"
   },
   {
-    "index": "272",
+    "index": "188",
     "set": "mug_muck_3",
     "voiced": "mug",
     "voiceless": "muck",
@@ -2721,7 +1881,7 @@ var trial_stimuli = [
     "path": "mug_muck_3_22.mp3"
   },
   {
-    "index": "273",
+    "index": "189",
     "set": "nag_knack_3",
     "voiced": "nag",
     "voiceless": "knack",
@@ -2731,7 +1891,7 @@ var trial_stimuli = [
     "path": "nag_knack_3_22.mp3"
   },
   {
-    "index": "274",
+    "index": "190",
     "set": "nab_nap_1",
     "voiced": "nab",
     "voiceless": "nap",
@@ -2741,7 +1901,7 @@ var trial_stimuli = [
     "path": "nab_nap_1_14.mp3"
   },
   {
-    "index": "275",
+    "index": "191",
     "set": "rag_rack_3",
     "voiced": "rag",
     "voiceless": "rack",
@@ -2751,7 +1911,7 @@ var trial_stimuli = [
     "path": "rag_rack_3_20.mp3"
   },
   {
-    "index": "276",
+    "index": "192",
     "set": "rib_rip_3",
     "voiced": "rib",
     "voiceless": "rip",
@@ -2761,7 +1921,7 @@ var trial_stimuli = [
     "path": "rib_rip_3_21.mp3"
   },
   {
-    "index": "277",
+    "index": "193",
     "set": "ride_write_3",
     "voiced": "ride",
     "voiceless": "write",
@@ -2771,7 +1931,7 @@ var trial_stimuli = [
     "path": "ride_write_3_21.mp3"
   },
   {
-    "index": "278",
+    "index": "194",
     "set": "rig_rick_3",
     "voiced": "rig",
     "voiceless": "rick",
@@ -2781,7 +1941,7 @@ var trial_stimuli = [
     "path": "rig_rick_3_19.mp3"
   },
   {
-    "index": "279",
+    "index": "195",
     "set": "robe_rope_3",
     "voiced": "robe",
     "voiceless": "rope",
@@ -2791,7 +1951,7 @@ var trial_stimuli = [
     "path": "robe_rope_3_21.mp3"
   },
   {
-    "index": "280",
+    "index": "196",
     "set": "sag_sack_1",
     "voiced": "sag",
     "voiceless": "sack",
@@ -2801,7 +1961,7 @@ var trial_stimuli = [
     "path": "sag_sack_1_20.mp3"
   },
   {
-    "index": "281",
+    "index": "197",
     "set": "seed_seat_3",
     "voiced": "seed",
     "voiceless": "seat",
@@ -2811,7 +1971,7 @@ var trial_stimuli = [
     "path": "seed_seat_3_20.mp3"
   },
   {
-    "index": "282",
+    "index": "198",
     "set": "send_sent_3",
     "voiced": "send",
     "voiceless": "sent",
@@ -2821,7 +1981,7 @@ var trial_stimuli = [
     "path": "send_sent_3_19.mp3"
   },
   {
-    "index": "283",
+    "index": "199",
     "set": "shag_shack_3",
     "voiced": "shag",
     "voiceless": "shack",
@@ -2831,7 +1991,7 @@ var trial_stimuli = [
     "path": "shag_shack_3_21.mp3"
   },
   {
-    "index": "284",
+    "index": "200",
     "set": "slab_slap_1",
     "voiced": "slab",
     "voiceless": "slap",
@@ -2841,7 +2001,7 @@ var trial_stimuli = [
     "path": "slab_slap_1_21.mp3"
   },
   {
-    "index": "285",
+    "index": "201",
     "set": "slid_slit_1",
     "voiced": "slid",
     "voiceless": "slit",
@@ -2851,7 +2011,7 @@ var trial_stimuli = [
     "path": "slid_slit_1_22.mp3"
   },
   {
-    "index": "286",
+    "index": "202",
     "set": "slide_slight_3",
     "voiced": "slide",
     "voiceless": "slight",
@@ -2861,7 +2021,7 @@ var trial_stimuli = [
     "path": "slide_slight_3_20.mp3"
   },
   {
-    "index": "287",
+    "index": "203",
     "set": "slob_slop_3",
     "voiced": "slob",
     "voiceless": "slop",
@@ -2871,7 +2031,7 @@ var trial_stimuli = [
     "path": "slob_slop_3_22.mp3"
   },
   {
-    "index": "288",
+    "index": "204",
     "set": "snag_snack_3",
     "voiced": "snag",
     "voiceless": "snack",
@@ -2881,7 +2041,7 @@ var trial_stimuli = [
     "path": "snag_snack_3_21.mp3"
   },
   {
-    "index": "289",
+    "index": "205",
     "set": "sob_sop_3",
     "voiced": "sob",
     "voiceless": "sop",
@@ -2891,7 +2051,7 @@ var trial_stimuli = [
     "path": "sob_sop_3_22.mp3"
   },
   {
-    "index": "290",
+    "index": "206",
     "set": "swab_swap_3",
     "voiced": "swab",
     "voiceless": "swap",
@@ -2901,7 +2061,7 @@ var trial_stimuli = [
     "path": "swab_swap_3_19.mp3"
   },
   {
-    "index": "291",
+    "index": "207",
     "set": "wed_wet_3",
     "voiced": "wed",
     "voiceless": "wet",
@@ -2911,7 +2071,7 @@ var trial_stimuli = [
     "path": "wed_wet_3_18.mp3"
   },
   {
-    "index": "292",
+    "index": "208",
     "set": "weed_wheat_3",
     "voiced": "weed",
     "voiceless": "wheat",
@@ -2921,7 +2081,7 @@ var trial_stimuli = [
     "path": "weed_wheat_3_20.mp3"
   },
   {
-    "index": "293",
+    "index": "209",
     "set": "whig_wick_1",
     "voiced": "whig",
     "voiceless": "wick",
@@ -2931,7 +2091,7 @@ var trial_stimuli = [
     "path": "whig_wick_1_9.mp3"
   },
   {
-    "index": "294",
+    "index": "210",
     "set": "wide_white_3",
     "voiced": "wide",
     "voiceless": "white",
@@ -2941,7 +2101,7 @@ var trial_stimuli = [
     "path": "wide_white_3_12.mp3"
   },
   {
-    "index": "295",
+    "index": "211",
     "set": "ban_pan_1",
     "voiced": "ban",
     "voiceless": "pan",
@@ -2951,7 +2111,7 @@ var trial_stimuli = [
     "path": "ban_pan_1_15.mp3"
   },
   {
-    "index": "296",
+    "index": "212",
     "set": "barrel_peril_3",
     "voiced": "barrel",
     "voiceless": "peril",
@@ -2961,7 +2121,7 @@ var trial_stimuli = [
     "path": "barrel_peril_3_21.mp3"
   },
   {
-    "index": "297",
+    "index": "213",
     "set": "bay_pay_1",
     "voiced": "bay",
     "voiceless": "pay",
@@ -2971,7 +2131,7 @@ var trial_stimuli = [
     "path": "bay_pay_1_17.mp3"
   },
   {
-    "index": "298",
+    "index": "214",
     "set": "bear_pair_1",
     "voiced": "bear",
     "voiceless": "pair",
@@ -2981,7 +2141,7 @@ var trial_stimuli = [
     "path": "bear_pair_1_16.mp3"
   },
   {
-    "index": "299",
+    "index": "215",
     "set": "beer_peer_1",
     "voiced": "beer",
     "voiceless": "peer",
@@ -2991,7 +2151,7 @@ var trial_stimuli = [
     "path": "beer_peer_1_15.mp3"
   },
   {
-    "index": "300",
+    "index": "216",
     "set": "bin_pin_3",
     "voiced": "bin",
     "voiceless": "pin",
@@ -3001,7 +2161,7 @@ var trial_stimuli = [
     "path": "bin_pin_3_18.mp3"
   },
   {
-    "index": "301",
+    "index": "217",
     "set": "bloom_plume_3",
     "voiced": "bloom",
     "voiceless": "plume",
@@ -3011,7 +2171,7 @@ var trial_stimuli = [
     "path": "bloom_plume_3_21.mp3"
   },
   {
-    "index": "302",
+    "index": "218",
     "set": "bony_pony_1",
     "voiced": "bony",
     "voiceless": "pony",
@@ -3021,7 +2181,7 @@ var trial_stimuli = [
     "path": "bony_pony_1_11.mp3"
   },
   {
-    "index": "303",
+    "index": "219",
     "set": "bore_pore_1",
     "voiced": "bore",
     "voiceless": "pore",
@@ -3031,7 +2191,7 @@ var trial_stimuli = [
     "path": "bore_pore_1_20.mp3"
   },
   {
-    "index": "304",
+    "index": "220",
     "set": "bowl_pole_1",
     "voiced": "bowl",
     "voiceless": "pole",
@@ -3041,7 +2201,7 @@ var trial_stimuli = [
     "path": "bowl_pole_1_19.mp3"
   },
   {
-    "index": "305",
+    "index": "221",
     "set": "bull_pull_3",
     "voiced": "bull",
     "voiceless": "pull",
@@ -3051,7 +2211,7 @@ var trial_stimuli = [
     "path": "bull_pull_3_19.mp3"
   },
   {
-    "index": "306",
+    "index": "222",
     "set": "bully_pulley_3",
     "voiced": "bully",
     "voiceless": "pulley",
@@ -3061,7 +2221,7 @@ var trial_stimuli = [
     "path": "bully_pulley_3_17.mp3"
   },
   {
-    "index": "307",
+    "index": "223",
     "set": "bun_pun_3",
     "voiced": "bun",
     "voiceless": "pun",
@@ -3071,7 +2231,7 @@ var trial_stimuli = [
     "path": "bun_pun_3_15.mp3"
   },
   {
-    "index": "308",
+    "index": "224",
     "set": "burly_pearly_3",
     "voiced": "burly",
     "voiceless": "pearly",
@@ -3081,7 +2241,7 @@ var trial_stimuli = [
     "path": "burly_pearly_3_18.mp3"
   },
   {
-    "index": "309",
+    "index": "225",
     "set": "dame_tame_1",
     "voiced": "dame",
     "voiceless": "tame",
@@ -3091,7 +2251,7 @@ var trial_stimuli = [
     "path": "dame_tame_1_17.mp3"
   },
   {
-    "index": "310",
+    "index": "226",
     "set": "dare_tear_1",
     "voiced": "dare",
     "voiceless": "tear",
@@ -3101,7 +2261,7 @@ var trial_stimuli = [
     "path": "dare_tear_1_18.mp3"
   },
   {
-    "index": "311",
+    "index": "227",
     "set": "deal_teal_1",
     "voiced": "deal",
     "voiceless": "teal",
@@ -3111,7 +2271,7 @@ var trial_stimuli = [
     "path": "deal_teal_1_15.mp3"
   },
   {
-    "index": "312",
+    "index": "228",
     "set": "dial_tile_1",
     "voiced": "dial",
     "voiceless": "tile",
@@ -3121,7 +2281,7 @@ var trial_stimuli = [
     "path": "dial_tile_1_19.mp3"
   },
   {
-    "index": "313",
+    "index": "229",
     "set": "die_tie_1",
     "voiced": "die",
     "voiceless": "tie",
@@ -3131,7 +2291,7 @@ var trial_stimuli = [
     "path": "die_tie_1_22.mp3"
   },
   {
-    "index": "314",
+    "index": "230",
     "set": "dime_time_3",
     "voiced": "dime",
     "voiceless": "time",
@@ -3141,7 +2301,7 @@ var trial_stimuli = [
     "path": "dime_time_3_21.mp3"
   },
   {
-    "index": "315",
+    "index": "231",
     "set": "din_tin_3",
     "voiced": "din",
     "voiceless": "tin",
@@ -3151,7 +2311,7 @@ var trial_stimuli = [
     "path": "din_tin_3_17.mp3"
   },
   {
-    "index": "316",
+    "index": "232",
     "set": "doll_tall_3",
     "voiced": "doll",
     "voiceless": "tall",
@@ -3161,7 +2321,7 @@ var trial_stimuli = [
     "path": "doll_tall_3_18.mp3"
   },
   {
-    "index": "317",
+    "index": "233",
     "set": "dollar_taller_3",
     "voiced": "dollar",
     "voiceless": "taller",
@@ -3171,7 +2331,7 @@ var trial_stimuli = [
     "path": "dollar_taller_3_19.mp3"
   },
   {
-    "index": "318",
+    "index": "234",
     "set": "doom_toom_3",
     "voiced": "doom",
     "voiceless": "tomb",
@@ -3181,7 +2341,7 @@ var trial_stimuli = [
     "path": "doom_toom_3_16.mp3"
   },
   {
-    "index": "319",
+    "index": "235",
     "set": "dough_toe_3",
     "voiced": "dough",
     "voiceless": "toe",
@@ -3191,7 +2351,7 @@ var trial_stimuli = [
     "path": "dough_toe_3_19.mp3"
   },
   {
-    "index": "320",
+    "index": "236",
     "set": "drain_train_1",
     "voiced": "drain",
     "voiceless": "train",
@@ -3201,7 +2361,7 @@ var trial_stimuli = [
     "path": "drain_train_1_15.mp3"
   },
   {
-    "index": "321",
+    "index": "237",
     "set": "dry_try_3",
     "voiced": "dry",
     "voiceless": "try",
@@ -3211,7 +2371,7 @@ var trial_stimuli = [
     "path": "dry_try_3_14.mp3"
   },
   {
-    "index": "322",
+    "index": "238",
     "set": "duel_tool_1",
     "voiced": "duel",
     "voiceless": "tool",
@@ -3221,7 +2381,7 @@ var trial_stimuli = [
     "path": "duel_tool_1_14.mp3"
   },
   {
-    "index": "323",
+    "index": "239",
     "set": "gain_cane_3",
     "voiced": "gain",
     "voiceless": "cane",
@@ -3231,7 +2391,7 @@ var trial_stimuli = [
     "path": "gain_cane_3_19.mp3"
   },
   {
-    "index": "324",
+    "index": "240",
     "set": "gale_kale_1",
     "voiced": "gale",
     "voiceless": "kale",
@@ -3241,7 +2401,7 @@ var trial_stimuli = [
     "path": "gale_kale_1_20.mp3"
   },
   {
-    "index": "325",
+    "index": "241",
     "set": "gallery_calorie_3",
     "voiced": "gallery",
     "voiceless": "calorie",
@@ -3251,7 +2411,7 @@ var trial_stimuli = [
     "path": "gallery_calorie_3_18.mp3"
   },
   {
-    "index": "326",
+    "index": "242",
     "set": "game_came_3",
     "voiced": "game",
     "voiceless": "came",
@@ -3261,7 +2421,7 @@ var trial_stimuli = [
     "path": "game_came_3_12.mp3"
   },
   {
-    "index": "327",
+    "index": "243",
     "set": "girly_curly_3",
     "voiced": "girly",
     "voiceless": "curly",
@@ -3271,7 +2431,7 @@ var trial_stimuli = [
     "path": "girly_curly_3_16.mp3"
   },
   {
-    "index": "328",
+    "index": "244",
     "set": "glue_clue_3",
     "voiced": "glue",
     "voiceless": "clue",
@@ -3281,7 +2441,7 @@ var trial_stimuli = [
     "path": "glue_clue_3_13.mp3"
   },
   {
-    "index": "329",
+    "index": "245",
     "set": "goal_coal_3",
     "voiced": "goal",
     "voiceless": "coal",
@@ -3291,7 +2451,7 @@ var trial_stimuli = [
     "path": "goal_coal_3_17.mp3"
   },
   {
-    "index": "330",
+    "index": "246",
     "set": "gore_core_3",
     "voiced": "gore",
     "voiceless": "core",
@@ -3301,7 +2461,7 @@ var trial_stimuli = [
     "path": "gore_core_3_15.mp3"
   },
   {
-    "index": "331",
+    "index": "247",
     "set": "grain_crain_3",
     "voiced": "grain",
     "voiceless": "crain",
@@ -3311,7 +2471,7 @@ var trial_stimuli = [
     "path": "grain_crain_3_16.mp3"
   },
   {
-    "index": "332",
+    "index": "248",
     "set": "grew_crew_3",
     "voiced": "grew",
     "voiceless": "crew",
@@ -3321,7 +2481,7 @@ var trial_stimuli = [
     "path": "grew_crew_3_18.mp3"
   },
   {
-    "index": "333",
+    "index": "249",
     "set": "grill_krill_3",
     "voiced": "grill",
     "voiceless": "krill",
@@ -3331,7 +2491,7 @@ var trial_stimuli = [
     "path": "grill_krill_3_12.mp3"
   },
   {
-    "index": "334",
+    "index": "250",
     "set": "grime_crime_3",
     "voiced": "grime",
     "voiceless": "crime",
@@ -3341,7 +2501,7 @@ var trial_stimuli = [
     "path": "grime_crime_3_17.mp3"
   },
   {
-    "index": "335",
+    "index": "251",
     "set": "grow_crow_1",
     "voiced": "grow",
     "voiceless": "crow",
@@ -3351,7 +2511,7 @@ var trial_stimuli = [
     "path": "grow_crow_1_12.mp3"
   },
   {
-    "index": "336",
+    "index": "252",
     "set": "gruel_cruel_3",
     "voiced": "gruel",
     "voiceless": "cruel",
@@ -3361,7 +2521,7 @@ var trial_stimuli = [
     "path": "gruel_cruel_3_16.mp3"
   },
   {
-    "index": "337",
+    "index": "253",
     "set": "ab_app_1",
     "voiced": "ab",
     "voiceless": "app",
@@ -3371,7 +2531,7 @@ var trial_stimuli = [
     "path": "ab_app_1_22.mp3"
   },
   {
-    "index": "338",
+    "index": "254",
     "set": "abe_ape_1",
     "voiced": "abe",
     "voiceless": "ape",
@@ -3381,7 +2541,7 @@ var trial_stimuli = [
     "path": "abe_ape_1_26.mp3"
   },
   {
-    "index": "339",
+    "index": "255",
     "set": "chug_chuck_3",
     "voiced": "chug",
     "voiceless": "chuck",
@@ -3391,7 +2551,7 @@ var trial_stimuli = [
     "path": "chug_chuck_3_26.mp3"
   },
   {
-    "index": "340",
+    "index": "256",
     "set": "fade_fate_3",
     "voiced": "fade",
     "voiceless": "fate",
@@ -3401,7 +2561,7 @@ var trial_stimuli = [
     "path": "fade_fate_3_22.mp3"
   },
   {
-    "index": "341",
+    "index": "257",
     "set": "feed_feet_1",
     "voiced": "feed",
     "voiceless": "feet",
@@ -3411,7 +2571,7 @@ var trial_stimuli = [
     "path": "feed_feet_1_24.mp3"
   },
   {
-    "index": "342",
+    "index": "258",
     "set": "flab_flap_1",
     "voiced": "flab",
     "voiceless": "flap",
@@ -3421,7 +2581,7 @@ var trial_stimuli = [
     "path": "flab_flap_1_26.mp3"
   },
   {
-    "index": "343",
+    "index": "259",
     "set": "flag_flack_1",
     "voiced": "flag",
     "voiceless": "flack",
@@ -3431,7 +2591,7 @@ var trial_stimuli = [
     "path": "flag_flack_1_26.mp3"
   },
   {
-    "index": "344",
+    "index": "260",
     "set": "ford_fort_1",
     "voiced": "ford",
     "voiceless": "fort",
@@ -3441,7 +2601,7 @@ var trial_stimuli = [
     "path": "ford_fort_1_26.mp3"
   },
   {
-    "index": "345",
+    "index": "261",
     "set": "hard_heart_1",
     "voiced": "hard",
     "voiceless": "heart",
@@ -3451,7 +2611,7 @@ var trial_stimuli = [
     "path": "hard_heart_1_26.mp3"
   },
   {
-    "index": "346",
+    "index": "262",
     "set": "hide_height_3",
     "voiced": "hide",
     "voiceless": "height",
@@ -3461,7 +2621,7 @@ var trial_stimuli = [
     "path": "hide_height_3_24.mp3"
   },
   {
-    "index": "347",
+    "index": "263",
     "set": "hug_huck_1",
     "voiced": "hug",
     "voiceless": "huck",
@@ -3471,7 +2631,7 @@ var trial_stimuli = [
     "path": "hug_huck_1_23.mp3"
   },
   {
-    "index": "348",
+    "index": "264",
     "set": "lab_lap_3",
     "voiced": "lab",
     "voiceless": "lap",
@@ -3481,7 +2641,7 @@ var trial_stimuli = [
     "path": "lab_lap_3_25.mp3"
   },
   {
-    "index": "349",
+    "index": "265",
     "set": "lag_lack_1",
     "voiced": "lag",
     "voiceless": "lack",
@@ -3491,7 +2651,7 @@ var trial_stimuli = [
     "path": "lag_lack_1_17.mp3"
   },
   {
-    "index": "350",
+    "index": "266",
     "set": "league_leak_1",
     "voiced": "league",
     "voiceless": "leak",
@@ -3501,7 +2661,7 @@ var trial_stimuli = [
     "path": "league_leak_1_20.mp3"
   },
   {
-    "index": "351",
+    "index": "267",
     "set": "lob_lop_3",
     "voiced": "lob",
     "voiceless": "lop",
@@ -3511,7 +2671,7 @@ var trial_stimuli = [
     "path": "lob_lop_3_22.mp3"
   },
   {
-    "index": "352",
+    "index": "268",
     "set": "lube_loop_3",
     "voiced": "lube",
     "voiceless": "loop",
@@ -3521,7 +2681,7 @@ var trial_stimuli = [
     "path": "lube_loop_3_22.mp3"
   },
   {
-    "index": "353",
+    "index": "269",
     "set": "lug_luck_1",
     "voiced": "lug",
     "voiceless": "luck",
@@ -3531,7 +2691,7 @@ var trial_stimuli = [
     "path": "lug_luck_1_23.mp3"
   },
   {
-    "index": "354",
+    "index": "270",
     "set": "mob_mop_3",
     "voiced": "mob",
     "voiceless": "mop",
@@ -3541,7 +2701,7 @@ var trial_stimuli = [
     "path": "mob_mop_3_25.mp3"
   },
   {
-    "index": "355",
+    "index": "271",
     "set": "mound_mount_1",
     "voiced": "mound",
     "voiceless": "mount",
@@ -3551,7 +2711,7 @@ var trial_stimuli = [
     "path": "mound_mount_1_24.mp3"
   },
   {
-    "index": "356",
+    "index": "272",
     "set": "mug_muck_3",
     "voiced": "mug",
     "voiceless": "muck",
@@ -3561,7 +2721,7 @@ var trial_stimuli = [
     "path": "mug_muck_3_26.mp3"
   },
   {
-    "index": "357",
+    "index": "273",
     "set": "nag_knack_3",
     "voiced": "nag",
     "voiceless": "knack",
@@ -3571,7 +2731,7 @@ var trial_stimuli = [
     "path": "nag_knack_3_26.mp3"
   },
   {
-    "index": "358",
+    "index": "274",
     "set": "nab_nap_1",
     "voiced": "nab",
     "voiceless": "nap",
@@ -3581,7 +2741,7 @@ var trial_stimuli = [
     "path": "nab_nap_1_18.mp3"
   },
   {
-    "index": "359",
+    "index": "275",
     "set": "rag_rack_3",
     "voiced": "rag",
     "voiceless": "rack",
@@ -3591,7 +2751,7 @@ var trial_stimuli = [
     "path": "rag_rack_3_24.mp3"
   },
   {
-    "index": "360",
+    "index": "276",
     "set": "rib_rip_3",
     "voiced": "rib",
     "voiceless": "rip",
@@ -3601,7 +2761,7 @@ var trial_stimuli = [
     "path": "rib_rip_3_25.mp3"
   },
   {
-    "index": "361",
+    "index": "277",
     "set": "ride_write_3",
     "voiced": "ride",
     "voiceless": "write",
@@ -3611,7 +2771,7 @@ var trial_stimuli = [
     "path": "ride_write_3_25.mp3"
   },
   {
-    "index": "362",
+    "index": "278",
     "set": "rig_rick_3",
     "voiced": "rig",
     "voiceless": "rick",
@@ -3621,7 +2781,7 @@ var trial_stimuli = [
     "path": "rig_rick_3_23.mp3"
   },
   {
-    "index": "363",
+    "index": "279",
     "set": "robe_rope_3",
     "voiced": "robe",
     "voiceless": "rope",
@@ -3631,7 +2791,7 @@ var trial_stimuli = [
     "path": "robe_rope_3_25.mp3"
   },
   {
-    "index": "364",
+    "index": "280",
     "set": "sag_sack_1",
     "voiced": "sag",
     "voiceless": "sack",
@@ -3641,7 +2801,7 @@ var trial_stimuli = [
     "path": "sag_sack_1_24.mp3"
   },
   {
-    "index": "365",
+    "index": "281",
     "set": "seed_seat_3",
     "voiced": "seed",
     "voiceless": "seat",
@@ -3651,7 +2811,7 @@ var trial_stimuli = [
     "path": "seed_seat_3_24.mp3"
   },
   {
-    "index": "366",
+    "index": "282",
     "set": "send_sent_3",
     "voiced": "send",
     "voiceless": "sent",
@@ -3661,7 +2821,7 @@ var trial_stimuli = [
     "path": "send_sent_3_23.mp3"
   },
   {
-    "index": "367",
+    "index": "283",
     "set": "shag_shack_3",
     "voiced": "shag",
     "voiceless": "shack",
@@ -3671,7 +2831,7 @@ var trial_stimuli = [
     "path": "shag_shack_3_25.mp3"
   },
   {
-    "index": "368",
+    "index": "284",
     "set": "slab_slap_1",
     "voiced": "slab",
     "voiceless": "slap",
@@ -3681,7 +2841,7 @@ var trial_stimuli = [
     "path": "slab_slap_1_25.mp3"
   },
   {
-    "index": "369",
+    "index": "285",
     "set": "slid_slit_1",
     "voiced": "slid",
     "voiceless": "slit",
@@ -3691,7 +2851,7 @@ var trial_stimuli = [
     "path": "slid_slit_1_26.mp3"
   },
   {
-    "index": "370",
+    "index": "286",
     "set": "slide_slight_3",
     "voiced": "slide",
     "voiceless": "slight",
@@ -3701,7 +2861,7 @@ var trial_stimuli = [
     "path": "slide_slight_3_24.mp3"
   },
   {
-    "index": "371",
+    "index": "287",
     "set": "slob_slop_3",
     "voiced": "slob",
     "voiceless": "slop",
@@ -3711,7 +2871,7 @@ var trial_stimuli = [
     "path": "slob_slop_3_26.mp3"
   },
   {
-    "index": "372",
+    "index": "288",
     "set": "snag_snack_3",
     "voiced": "snag",
     "voiceless": "snack",
@@ -3721,7 +2881,7 @@ var trial_stimuli = [
     "path": "snag_snack_3_25.mp3"
   },
   {
-    "index": "373",
+    "index": "289",
     "set": "sob_sop_3",
     "voiced": "sob",
     "voiceless": "sop",
@@ -3731,7 +2891,7 @@ var trial_stimuli = [
     "path": "sob_sop_3_26.mp3"
   },
   {
-    "index": "374",
+    "index": "290",
     "set": "swab_swap_3",
     "voiced": "swab",
     "voiceless": "swap",
@@ -3741,7 +2901,7 @@ var trial_stimuli = [
     "path": "swab_swap_3_23.mp3"
   },
   {
-    "index": "375",
+    "index": "291",
     "set": "wed_wet_3",
     "voiced": "wed",
     "voiceless": "wet",
@@ -3751,7 +2911,7 @@ var trial_stimuli = [
     "path": "wed_wet_3_22.mp3"
   },
   {
-    "index": "376",
+    "index": "292",
     "set": "weed_wheat_3",
     "voiced": "weed",
     "voiceless": "wheat",
@@ -3761,7 +2921,7 @@ var trial_stimuli = [
     "path": "weed_wheat_3_24.mp3"
   },
   {
-    "index": "377",
+    "index": "293",
     "set": "whig_wick_1",
     "voiced": "whig",
     "voiceless": "wick",
@@ -3771,7 +2931,7 @@ var trial_stimuli = [
     "path": "whig_wick_1_13.mp3"
   },
   {
-    "index": "378",
+    "index": "294",
     "set": "wide_white_3",
     "voiced": "wide",
     "voiceless": "white",
@@ -3781,7 +2941,7 @@ var trial_stimuli = [
     "path": "wide_white_3_16.mp3"
   },
   {
-    "index": "379",
+    "index": "295",
     "set": "ban_pan_1",
     "voiced": "ban",
     "voiceless": "pan",
@@ -3791,7 +2951,7 @@ var trial_stimuli = [
     "path": "ban_pan_1_19.mp3"
   },
   {
-    "index": "380",
+    "index": "296",
     "set": "barrel_peril_3",
     "voiced": "barrel",
     "voiceless": "peril",
@@ -3801,7 +2961,7 @@ var trial_stimuli = [
     "path": "barrel_peril_3_25.mp3"
   },
   {
-    "index": "381",
+    "index": "297",
     "set": "bay_pay_1",
     "voiced": "bay",
     "voiceless": "pay",
@@ -3811,7 +2971,7 @@ var trial_stimuli = [
     "path": "bay_pay_1_21.mp3"
   },
   {
-    "index": "382",
+    "index": "298",
     "set": "bear_pair_1",
     "voiced": "bear",
     "voiceless": "pair",
@@ -3821,7 +2981,7 @@ var trial_stimuli = [
     "path": "bear_pair_1_20.mp3"
   },
   {
-    "index": "383",
+    "index": "299",
     "set": "beer_peer_1",
     "voiced": "beer",
     "voiceless": "peer",
@@ -3831,7 +2991,7 @@ var trial_stimuli = [
     "path": "beer_peer_1_19.mp3"
   },
   {
-    "index": "384",
+    "index": "300",
     "set": "bin_pin_3",
     "voiced": "bin",
     "voiceless": "pin",
@@ -3841,7 +3001,7 @@ var trial_stimuli = [
     "path": "bin_pin_3_22.mp3"
   },
   {
-    "index": "385",
+    "index": "301",
     "set": "bloom_plume_3",
     "voiced": "bloom",
     "voiceless": "plume",
@@ -3851,7 +3011,7 @@ var trial_stimuli = [
     "path": "bloom_plume_3_25.mp3"
   },
   {
-    "index": "386",
+    "index": "302",
     "set": "bony_pony_1",
     "voiced": "bony",
     "voiceless": "pony",
@@ -3861,7 +3021,7 @@ var trial_stimuli = [
     "path": "bony_pony_1_15.mp3"
   },
   {
-    "index": "387",
+    "index": "303",
     "set": "bore_pore_1",
     "voiced": "bore",
     "voiceless": "pore",
@@ -3871,7 +3031,7 @@ var trial_stimuli = [
     "path": "bore_pore_1_24.mp3"
   },
   {
-    "index": "388",
+    "index": "304",
     "set": "bowl_pole_1",
     "voiced": "bowl",
     "voiceless": "pole",
@@ -3881,7 +3041,7 @@ var trial_stimuli = [
     "path": "bowl_pole_1_23.mp3"
   },
   {
-    "index": "389",
+    "index": "305",
     "set": "bull_pull_3",
     "voiced": "bull",
     "voiceless": "pull",
@@ -3891,7 +3051,7 @@ var trial_stimuli = [
     "path": "bull_pull_3_23.mp3"
   },
   {
-    "index": "390",
+    "index": "306",
     "set": "bully_pulley_3",
     "voiced": "bully",
     "voiceless": "pulley",
@@ -3901,7 +3061,7 @@ var trial_stimuli = [
     "path": "bully_pulley_3_21.mp3"
   },
   {
-    "index": "391",
+    "index": "307",
     "set": "bun_pun_3",
     "voiced": "bun",
     "voiceless": "pun",
@@ -3911,7 +3071,7 @@ var trial_stimuli = [
     "path": "bun_pun_3_19.mp3"
   },
   {
-    "index": "392",
+    "index": "308",
     "set": "burly_pearly_3",
     "voiced": "burly",
     "voiceless": "pearly",
@@ -3921,7 +3081,7 @@ var trial_stimuli = [
     "path": "burly_pearly_3_22.mp3"
   },
   {
-    "index": "393",
+    "index": "309",
     "set": "dame_tame_1",
     "voiced": "dame",
     "voiceless": "tame",
@@ -3931,7 +3091,7 @@ var trial_stimuli = [
     "path": "dame_tame_1_21.mp3"
   },
   {
-    "index": "394",
+    "index": "310",
     "set": "dare_tear_1",
     "voiced": "dare",
     "voiceless": "tear",
@@ -3941,7 +3101,7 @@ var trial_stimuli = [
     "path": "dare_tear_1_22.mp3"
   },
   {
-    "index": "395",
+    "index": "311",
     "set": "deal_teal_1",
     "voiced": "deal",
     "voiceless": "teal",
@@ -3951,7 +3111,7 @@ var trial_stimuli = [
     "path": "deal_teal_1_19.mp3"
   },
   {
-    "index": "396",
+    "index": "312",
     "set": "dial_tile_1",
     "voiced": "dial",
     "voiceless": "tile",
@@ -3961,7 +3121,7 @@ var trial_stimuli = [
     "path": "dial_tile_1_23.mp3"
   },
   {
-    "index": "397",
+    "index": "313",
     "set": "die_tie_1",
     "voiced": "die",
     "voiceless": "tie",
@@ -3971,7 +3131,7 @@ var trial_stimuli = [
     "path": "die_tie_1_26.mp3"
   },
   {
-    "index": "398",
+    "index": "314",
     "set": "dime_time_3",
     "voiced": "dime",
     "voiceless": "time",
@@ -3981,7 +3141,7 @@ var trial_stimuli = [
     "path": "dime_time_3_25.mp3"
   },
   {
-    "index": "399",
+    "index": "315",
     "set": "din_tin_3",
     "voiced": "din",
     "voiceless": "tin",
@@ -3991,7 +3151,7 @@ var trial_stimuli = [
     "path": "din_tin_3_21.mp3"
   },
   {
-    "index": "400",
+    "index": "316",
     "set": "doll_tall_3",
     "voiced": "doll",
     "voiceless": "tall",
@@ -4001,7 +3161,7 @@ var trial_stimuli = [
     "path": "doll_tall_3_22.mp3"
   },
   {
-    "index": "401",
+    "index": "317",
     "set": "dollar_taller_3",
     "voiced": "dollar",
     "voiceless": "taller",
@@ -4011,7 +3171,7 @@ var trial_stimuli = [
     "path": "dollar_taller_3_23.mp3"
   },
   {
-    "index": "402",
+    "index": "318",
     "set": "doom_toom_3",
     "voiced": "doom",
     "voiceless": "tomb",
@@ -4021,7 +3181,7 @@ var trial_stimuli = [
     "path": "doom_toom_3_20.mp3"
   },
   {
-    "index": "403",
+    "index": "319",
     "set": "dough_toe_3",
     "voiced": "dough",
     "voiceless": "toe",
@@ -4031,7 +3191,7 @@ var trial_stimuli = [
     "path": "dough_toe_3_23.mp3"
   },
   {
-    "index": "404",
+    "index": "320",
     "set": "drain_train_1",
     "voiced": "drain",
     "voiceless": "train",
@@ -4041,7 +3201,7 @@ var trial_stimuli = [
     "path": "drain_train_1_19.mp3"
   },
   {
-    "index": "405",
+    "index": "321",
     "set": "dry_try_3",
     "voiced": "dry",
     "voiceless": "try",
@@ -4051,7 +3211,7 @@ var trial_stimuli = [
     "path": "dry_try_3_18.mp3"
   },
   {
-    "index": "406",
+    "index": "322",
     "set": "duel_tool_1",
     "voiced": "duel",
     "voiceless": "tool",
@@ -4061,7 +3221,7 @@ var trial_stimuli = [
     "path": "duel_tool_1_18.mp3"
   },
   {
-    "index": "407",
+    "index": "323",
     "set": "gain_cane_3",
     "voiced": "gain",
     "voiceless": "cane",
@@ -4071,7 +3231,7 @@ var trial_stimuli = [
     "path": "gain_cane_3_23.mp3"
   },
   {
-    "index": "408",
+    "index": "324",
     "set": "gale_kale_1",
     "voiced": "gale",
     "voiceless": "kale",
@@ -4081,7 +3241,7 @@ var trial_stimuli = [
     "path": "gale_kale_1_24.mp3"
   },
   {
-    "index": "409",
+    "index": "325",
     "set": "gallery_calorie_3",
     "voiced": "gallery",
     "voiceless": "calorie",
@@ -4091,7 +3251,7 @@ var trial_stimuli = [
     "path": "gallery_calorie_3_22.mp3"
   },
   {
-    "index": "410",
+    "index": "326",
     "set": "game_came_3",
     "voiced": "game",
     "voiceless": "came",
@@ -4101,7 +3261,7 @@ var trial_stimuli = [
     "path": "game_came_3_16.mp3"
   },
   {
-    "index": "411",
+    "index": "327",
     "set": "girly_curly_3",
     "voiced": "girly",
     "voiceless": "curly",
@@ -4111,7 +3271,7 @@ var trial_stimuli = [
     "path": "girly_curly_3_20.mp3"
   },
   {
-    "index": "412",
+    "index": "328",
     "set": "glue_clue_3",
     "voiced": "glue",
     "voiceless": "clue",
@@ -4121,7 +3281,7 @@ var trial_stimuli = [
     "path": "glue_clue_3_17.mp3"
   },
   {
-    "index": "413",
+    "index": "329",
     "set": "goal_coal_3",
     "voiced": "goal",
     "voiceless": "coal",
@@ -4131,7 +3291,7 @@ var trial_stimuli = [
     "path": "goal_coal_3_21.mp3"
   },
   {
-    "index": "414",
+    "index": "330",
     "set": "gore_core_3",
     "voiced": "gore",
     "voiceless": "core",
@@ -4141,7 +3301,7 @@ var trial_stimuli = [
     "path": "gore_core_3_19.mp3"
   },
   {
-    "index": "415",
+    "index": "331",
     "set": "grain_crain_3",
     "voiced": "grain",
     "voiceless": "crain",
@@ -4151,7 +3311,7 @@ var trial_stimuli = [
     "path": "grain_crain_3_20.mp3"
   },
   {
-    "index": "416",
+    "index": "332",
     "set": "grew_crew_3",
     "voiced": "grew",
     "voiceless": "crew",
@@ -4161,7 +3321,7 @@ var trial_stimuli = [
     "path": "grew_crew_3_22.mp3"
   },
   {
-    "index": "417",
+    "index": "333",
     "set": "grill_krill_3",
     "voiced": "grill",
     "voiceless": "krill",
@@ -4171,7 +3331,7 @@ var trial_stimuli = [
     "path": "grill_krill_3_16.mp3"
   },
   {
-    "index": "418",
+    "index": "334",
     "set": "grime_crime_3",
     "voiced": "grime",
     "voiceless": "crime",
@@ -4181,7 +3341,7 @@ var trial_stimuli = [
     "path": "grime_crime_3_21.mp3"
   },
   {
-    "index": "419",
+    "index": "335",
     "set": "grow_crow_1",
     "voiced": "grow",
     "voiceless": "crow",
@@ -4191,7 +3351,7 @@ var trial_stimuli = [
     "path": "grow_crow_1_16.mp3"
   },
   {
-    "index": "420",
+    "index": "336",
     "set": "gruel_cruel_3",
     "voiced": "gruel",
     "voiceless": "cruel",
@@ -4201,7 +3361,7 @@ var trial_stimuli = [
     "path": "gruel_cruel_3_20.mp3"
   },
   {
-    "index": "421",
+    "index": "337",
     "set": "ab_app_1",
     "voiced": "ab",
     "voiceless": "app",
@@ -4211,7 +3371,7 @@ var trial_stimuli = [
     "path": "ab_app_1_24.mp3"
   },
   {
-    "index": "422",
+    "index": "338",
     "set": "abe_ape_1",
     "voiced": "abe",
     "voiceless": "ape",
@@ -4221,7 +3381,7 @@ var trial_stimuli = [
     "path": "abe_ape_1_28.mp3"
   },
   {
-    "index": "423",
+    "index": "339",
     "set": "chug_chuck_3",
     "voiced": "chug",
     "voiceless": "chuck",
@@ -4231,7 +3391,7 @@ var trial_stimuli = [
     "path": "chug_chuck_3_28.mp3"
   },
   {
-    "index": "424",
+    "index": "340",
     "set": "fade_fate_3",
     "voiced": "fade",
     "voiceless": "fate",
@@ -4241,7 +3401,7 @@ var trial_stimuli = [
     "path": "fade_fate_3_24.mp3"
   },
   {
-    "index": "425",
+    "index": "341",
     "set": "feed_feet_1",
     "voiced": "feed",
     "voiceless": "feet",
@@ -4251,7 +3411,7 @@ var trial_stimuli = [
     "path": "feed_feet_1_26.mp3"
   },
   {
-    "index": "426",
+    "index": "342",
     "set": "flab_flap_1",
     "voiced": "flab",
     "voiceless": "flap",
@@ -4261,7 +3421,7 @@ var trial_stimuli = [
     "path": "flab_flap_1_28.mp3"
   },
   {
-    "index": "427",
+    "index": "343",
     "set": "flag_flack_1",
     "voiced": "flag",
     "voiceless": "flack",
@@ -4271,7 +3431,7 @@ var trial_stimuli = [
     "path": "flag_flack_1_28.mp3"
   },
   {
-    "index": "428",
+    "index": "344",
     "set": "ford_fort_1",
     "voiced": "ford",
     "voiceless": "fort",
@@ -4281,7 +3441,7 @@ var trial_stimuli = [
     "path": "ford_fort_1_28.mp3"
   },
   {
-    "index": "429",
+    "index": "345",
     "set": "hard_heart_1",
     "voiced": "hard",
     "voiceless": "heart",
@@ -4291,7 +3451,7 @@ var trial_stimuli = [
     "path": "hard_heart_1_28.mp3"
   },
   {
-    "index": "430",
+    "index": "346",
     "set": "hide_height_3",
     "voiced": "hide",
     "voiceless": "height",
@@ -4301,7 +3461,7 @@ var trial_stimuli = [
     "path": "hide_height_3_26.mp3"
   },
   {
-    "index": "431",
+    "index": "347",
     "set": "hug_huck_1",
     "voiced": "hug",
     "voiceless": "huck",
@@ -4311,7 +3471,7 @@ var trial_stimuli = [
     "path": "hug_huck_1_25.mp3"
   },
   {
-    "index": "432",
+    "index": "348",
     "set": "lab_lap_3",
     "voiced": "lab",
     "voiceless": "lap",
@@ -4321,7 +3481,7 @@ var trial_stimuli = [
     "path": "lab_lap_3_27.mp3"
   },
   {
-    "index": "433",
+    "index": "349",
     "set": "lag_lack_1",
     "voiced": "lag",
     "voiceless": "lack",
@@ -4331,7 +3491,7 @@ var trial_stimuli = [
     "path": "lag_lack_1_19.mp3"
   },
   {
-    "index": "434",
+    "index": "350",
     "set": "league_leak_1",
     "voiced": "league",
     "voiceless": "leak",
@@ -4341,7 +3501,7 @@ var trial_stimuli = [
     "path": "league_leak_1_22.mp3"
   },
   {
-    "index": "435",
+    "index": "351",
     "set": "lob_lop_3",
     "voiced": "lob",
     "voiceless": "lop",
@@ -4351,7 +3511,7 @@ var trial_stimuli = [
     "path": "lob_lop_3_24.mp3"
   },
   {
-    "index": "436",
+    "index": "352",
     "set": "lube_loop_3",
     "voiced": "lube",
     "voiceless": "loop",
@@ -4361,7 +3521,7 @@ var trial_stimuli = [
     "path": "lube_loop_3_24.mp3"
   },
   {
-    "index": "437",
+    "index": "353",
     "set": "lug_luck_1",
     "voiced": "lug",
     "voiceless": "luck",
@@ -4371,7 +3531,7 @@ var trial_stimuli = [
     "path": "lug_luck_1_25.mp3"
   },
   {
-    "index": "438",
+    "index": "354",
     "set": "mob_mop_3",
     "voiced": "mob",
     "voiceless": "mop",
@@ -4381,7 +3541,7 @@ var trial_stimuli = [
     "path": "mob_mop_3_27.mp3"
   },
   {
-    "index": "439",
+    "index": "355",
     "set": "mound_mount_1",
     "voiced": "mound",
     "voiceless": "mount",
@@ -4391,7 +3551,7 @@ var trial_stimuli = [
     "path": "mound_mount_1_26.mp3"
   },
   {
-    "index": "440",
+    "index": "356",
     "set": "mug_muck_3",
     "voiced": "mug",
     "voiceless": "muck",
@@ -4401,7 +3561,7 @@ var trial_stimuli = [
     "path": "mug_muck_3_28.mp3"
   },
   {
-    "index": "441",
+    "index": "357",
     "set": "nag_knack_3",
     "voiced": "nag",
     "voiceless": "knack",
@@ -4411,7 +3571,7 @@ var trial_stimuli = [
     "path": "nag_knack_3_28.mp3"
   },
   {
-    "index": "442",
+    "index": "358",
     "set": "nab_nap_1",
     "voiced": "nab",
     "voiceless": "nap",
@@ -4421,7 +3581,7 @@ var trial_stimuli = [
     "path": "nab_nap_1_20.mp3"
   },
   {
-    "index": "443",
+    "index": "359",
     "set": "rag_rack_3",
     "voiced": "rag",
     "voiceless": "rack",
@@ -4431,7 +3591,7 @@ var trial_stimuli = [
     "path": "rag_rack_3_26.mp3"
   },
   {
-    "index": "444",
+    "index": "360",
     "set": "rib_rip_3",
     "voiced": "rib",
     "voiceless": "rip",
@@ -4441,7 +3601,7 @@ var trial_stimuli = [
     "path": "rib_rip_3_27.mp3"
   },
   {
-    "index": "445",
+    "index": "361",
     "set": "ride_write_3",
     "voiced": "ride",
     "voiceless": "write",
@@ -4451,7 +3611,7 @@ var trial_stimuli = [
     "path": "ride_write_3_27.mp3"
   },
   {
-    "index": "446",
+    "index": "362",
     "set": "rig_rick_3",
     "voiced": "rig",
     "voiceless": "rick",
@@ -4461,7 +3621,7 @@ var trial_stimuli = [
     "path": "rig_rick_3_25.mp3"
   },
   {
-    "index": "447",
+    "index": "363",
     "set": "robe_rope_3",
     "voiced": "robe",
     "voiceless": "rope",
@@ -4471,7 +3631,7 @@ var trial_stimuli = [
     "path": "robe_rope_3_27.mp3"
   },
   {
-    "index": "448",
+    "index": "364",
     "set": "sag_sack_1",
     "voiced": "sag",
     "voiceless": "sack",
@@ -4481,7 +3641,7 @@ var trial_stimuli = [
     "path": "sag_sack_1_26.mp3"
   },
   {
-    "index": "449",
+    "index": "365",
     "set": "seed_seat_3",
     "voiced": "seed",
     "voiceless": "seat",
@@ -4491,7 +3651,7 @@ var trial_stimuli = [
     "path": "seed_seat_3_26.mp3"
   },
   {
-    "index": "450",
+    "index": "366",
     "set": "send_sent_3",
     "voiced": "send",
     "voiceless": "sent",
@@ -4501,7 +3661,7 @@ var trial_stimuli = [
     "path": "send_sent_3_25.mp3"
   },
   {
-    "index": "451",
+    "index": "367",
     "set": "shag_shack_3",
     "voiced": "shag",
     "voiceless": "shack",
@@ -4511,7 +3671,7 @@ var trial_stimuli = [
     "path": "shag_shack_3_27.mp3"
   },
   {
-    "index": "452",
+    "index": "368",
     "set": "slab_slap_1",
     "voiced": "slab",
     "voiceless": "slap",
@@ -4521,7 +3681,7 @@ var trial_stimuli = [
     "path": "slab_slap_1_27.mp3"
   },
   {
-    "index": "453",
+    "index": "369",
     "set": "slid_slit_1",
     "voiced": "slid",
     "voiceless": "slit",
@@ -4531,7 +3691,7 @@ var trial_stimuli = [
     "path": "slid_slit_1_28.mp3"
   },
   {
-    "index": "454",
+    "index": "370",
     "set": "slide_slight_3",
     "voiced": "slide",
     "voiceless": "slight",
@@ -4541,7 +3701,7 @@ var trial_stimuli = [
     "path": "slide_slight_3_26.mp3"
   },
   {
-    "index": "455",
+    "index": "371",
     "set": "slob_slop_3",
     "voiced": "slob",
     "voiceless": "slop",
@@ -4551,7 +3711,7 @@ var trial_stimuli = [
     "path": "slob_slop_3_28.mp3"
   },
   {
-    "index": "456",
+    "index": "372",
     "set": "snag_snack_3",
     "voiced": "snag",
     "voiceless": "snack",
@@ -4561,7 +3721,7 @@ var trial_stimuli = [
     "path": "snag_snack_3_27.mp3"
   },
   {
-    "index": "457",
+    "index": "373",
     "set": "sob_sop_3",
     "voiced": "sob",
     "voiceless": "sop",
@@ -4571,7 +3731,7 @@ var trial_stimuli = [
     "path": "sob_sop_3_28.mp3"
   },
   {
-    "index": "458",
+    "index": "374",
     "set": "swab_swap_3",
     "voiced": "swab",
     "voiceless": "swap",
@@ -4581,7 +3741,7 @@ var trial_stimuli = [
     "path": "swab_swap_3_25.mp3"
   },
   {
-    "index": "459",
+    "index": "375",
     "set": "wed_wet_3",
     "voiced": "wed",
     "voiceless": "wet",
@@ -4591,7 +3751,7 @@ var trial_stimuli = [
     "path": "wed_wet_3_24.mp3"
   },
   {
-    "index": "460",
+    "index": "376",
     "set": "weed_wheat_3",
     "voiced": "weed",
     "voiceless": "wheat",
@@ -4601,7 +3761,7 @@ var trial_stimuli = [
     "path": "weed_wheat_3_26.mp3"
   },
   {
-    "index": "461",
+    "index": "377",
     "set": "whig_wick_1",
     "voiced": "whig",
     "voiceless": "wick",
@@ -4611,7 +3771,7 @@ var trial_stimuli = [
     "path": "whig_wick_1_15.mp3"
   },
   {
-    "index": "462",
+    "index": "378",
     "set": "wide_white_3",
     "voiced": "wide",
     "voiceless": "white",
@@ -4621,7 +3781,7 @@ var trial_stimuli = [
     "path": "wide_white_3_18.mp3"
   },
   {
-    "index": "463",
+    "index": "379",
     "set": "ban_pan_1",
     "voiced": "ban",
     "voiceless": "pan",
@@ -4631,7 +3791,7 @@ var trial_stimuli = [
     "path": "ban_pan_1_21.mp3"
   },
   {
-    "index": "464",
+    "index": "380",
     "set": "barrel_peril_3",
     "voiced": "barrel",
     "voiceless": "peril",
@@ -4641,7 +3801,7 @@ var trial_stimuli = [
     "path": "barrel_peril_3_27.mp3"
   },
   {
-    "index": "465",
+    "index": "381",
     "set": "bay_pay_1",
     "voiced": "bay",
     "voiceless": "pay",
@@ -4651,7 +3811,7 @@ var trial_stimuli = [
     "path": "bay_pay_1_23.mp3"
   },
   {
-    "index": "466",
+    "index": "382",
     "set": "bear_pair_1",
     "voiced": "bear",
     "voiceless": "pair",
@@ -4661,7 +3821,7 @@ var trial_stimuli = [
     "path": "bear_pair_1_22.mp3"
   },
   {
-    "index": "467",
+    "index": "383",
     "set": "beer_peer_1",
     "voiced": "beer",
     "voiceless": "peer",
@@ -4671,7 +3831,7 @@ var trial_stimuli = [
     "path": "beer_peer_1_21.mp3"
   },
   {
-    "index": "468",
+    "index": "384",
     "set": "bin_pin_3",
     "voiced": "bin",
     "voiceless": "pin",
@@ -4681,7 +3841,7 @@ var trial_stimuli = [
     "path": "bin_pin_3_24.mp3"
   },
   {
-    "index": "469",
+    "index": "385",
     "set": "bloom_plume_3",
     "voiced": "bloom",
     "voiceless": "plume",
@@ -4691,7 +3851,7 @@ var trial_stimuli = [
     "path": "bloom_plume_3_27.mp3"
   },
   {
-    "index": "470",
+    "index": "386",
     "set": "bony_pony_1",
     "voiced": "bony",
     "voiceless": "pony",
@@ -4701,7 +3861,7 @@ var trial_stimuli = [
     "path": "bony_pony_1_17.mp3"
   },
   {
-    "index": "471",
+    "index": "387",
     "set": "bore_pore_1",
     "voiced": "bore",
     "voiceless": "pore",
@@ -4711,7 +3871,7 @@ var trial_stimuli = [
     "path": "bore_pore_1_26.mp3"
   },
   {
-    "index": "472",
+    "index": "388",
     "set": "bowl_pole_1",
     "voiced": "bowl",
     "voiceless": "pole",
@@ -4721,7 +3881,7 @@ var trial_stimuli = [
     "path": "bowl_pole_1_25.mp3"
   },
   {
-    "index": "473",
+    "index": "389",
     "set": "bull_pull_3",
     "voiced": "bull",
     "voiceless": "pull",
@@ -4731,7 +3891,7 @@ var trial_stimuli = [
     "path": "bull_pull_3_25.mp3"
   },
   {
-    "index": "474",
+    "index": "390",
     "set": "bully_pulley_3",
     "voiced": "bully",
     "voiceless": "pulley",
@@ -4741,7 +3901,7 @@ var trial_stimuli = [
     "path": "bully_pulley_3_23.mp3"
   },
   {
-    "index": "475",
+    "index": "391",
     "set": "bun_pun_3",
     "voiced": "bun",
     "voiceless": "pun",
@@ -4751,7 +3911,7 @@ var trial_stimuli = [
     "path": "bun_pun_3_21.mp3"
   },
   {
-    "index": "476",
+    "index": "392",
     "set": "burly_pearly_3",
     "voiced": "burly",
     "voiceless": "pearly",
@@ -4761,7 +3921,7 @@ var trial_stimuli = [
     "path": "burly_pearly_3_24.mp3"
   },
   {
-    "index": "477",
+    "index": "393",
     "set": "dame_tame_1",
     "voiced": "dame",
     "voiceless": "tame",
@@ -4771,7 +3931,7 @@ var trial_stimuli = [
     "path": "dame_tame_1_23.mp3"
   },
   {
-    "index": "478",
+    "index": "394",
     "set": "dare_tear_1",
     "voiced": "dare",
     "voiceless": "tear",
@@ -4781,7 +3941,7 @@ var trial_stimuli = [
     "path": "dare_tear_1_24.mp3"
   },
   {
-    "index": "479",
+    "index": "395",
     "set": "deal_teal_1",
     "voiced": "deal",
     "voiceless": "teal",
@@ -4791,7 +3951,7 @@ var trial_stimuli = [
     "path": "deal_teal_1_21.mp3"
   },
   {
-    "index": "480",
+    "index": "396",
     "set": "dial_tile_1",
     "voiced": "dial",
     "voiceless": "tile",
@@ -4801,7 +3961,7 @@ var trial_stimuli = [
     "path": "dial_tile_1_25.mp3"
   },
   {
-    "index": "481",
+    "index": "397",
     "set": "die_tie_1",
     "voiced": "die",
     "voiceless": "tie",
@@ -4811,7 +3971,7 @@ var trial_stimuli = [
     "path": "die_tie_1_28.mp3"
   },
   {
-    "index": "482",
+    "index": "398",
     "set": "dime_time_3",
     "voiced": "dime",
     "voiceless": "time",
@@ -4821,7 +3981,7 @@ var trial_stimuli = [
     "path": "dime_time_3_27.mp3"
   },
   {
-    "index": "483",
+    "index": "399",
     "set": "din_tin_3",
     "voiced": "din",
     "voiceless": "tin",
@@ -4831,7 +3991,7 @@ var trial_stimuli = [
     "path": "din_tin_3_23.mp3"
   },
   {
-    "index": "484",
+    "index": "400",
     "set": "doll_tall_3",
     "voiced": "doll",
     "voiceless": "tall",
@@ -4841,7 +4001,7 @@ var trial_stimuli = [
     "path": "doll_tall_3_24.mp3"
   },
   {
-    "index": "485",
+    "index": "401",
     "set": "dollar_taller_3",
     "voiced": "dollar",
     "voiceless": "taller",
@@ -4851,7 +4011,7 @@ var trial_stimuli = [
     "path": "dollar_taller_3_25.mp3"
   },
   {
-    "index": "486",
+    "index": "402",
     "set": "doom_toom_3",
     "voiced": "doom",
     "voiceless": "tomb",
@@ -4861,7 +4021,7 @@ var trial_stimuli = [
     "path": "doom_toom_3_22.mp3"
   },
   {
-    "index": "487",
+    "index": "403",
     "set": "dough_toe_3",
     "voiced": "dough",
     "voiceless": "toe",
@@ -4871,7 +4031,7 @@ var trial_stimuli = [
     "path": "dough_toe_3_25.mp3"
   },
   {
-    "index": "488",
+    "index": "404",
     "set": "drain_train_1",
     "voiced": "drain",
     "voiceless": "train",
@@ -4881,7 +4041,7 @@ var trial_stimuli = [
     "path": "drain_train_1_21.mp3"
   },
   {
-    "index": "489",
+    "index": "405",
     "set": "dry_try_3",
     "voiced": "dry",
     "voiceless": "try",
@@ -4891,7 +4051,7 @@ var trial_stimuli = [
     "path": "dry_try_3_20.mp3"
   },
   {
-    "index": "490",
+    "index": "406",
     "set": "duel_tool_1",
     "voiced": "duel",
     "voiceless": "tool",
@@ -4901,7 +4061,7 @@ var trial_stimuli = [
     "path": "duel_tool_1_20.mp3"
   },
   {
-    "index": "491",
+    "index": "407",
     "set": "gain_cane_3",
     "voiced": "gain",
     "voiceless": "cane",
@@ -4911,7 +4071,7 @@ var trial_stimuli = [
     "path": "gain_cane_3_25.mp3"
   },
   {
-    "index": "492",
+    "index": "408",
     "set": "gale_kale_1",
     "voiced": "gale",
     "voiceless": "kale",
@@ -4921,7 +4081,7 @@ var trial_stimuli = [
     "path": "gale_kale_1_26.mp3"
   },
   {
-    "index": "493",
+    "index": "409",
     "set": "gallery_calorie_3",
     "voiced": "gallery",
     "voiceless": "calorie",
@@ -4931,7 +4091,7 @@ var trial_stimuli = [
     "path": "gallery_calorie_3_24.mp3"
   },
   {
-    "index": "494",
+    "index": "410",
     "set": "game_came_3",
     "voiced": "game",
     "voiceless": "came",
@@ -4941,7 +4101,7 @@ var trial_stimuli = [
     "path": "game_came_3_18.mp3"
   },
   {
-    "index": "495",
+    "index": "411",
     "set": "girly_curly_3",
     "voiced": "girly",
     "voiceless": "curly",
@@ -4951,7 +4111,7 @@ var trial_stimuli = [
     "path": "girly_curly_3_22.mp3"
   },
   {
-    "index": "496",
+    "index": "412",
     "set": "glue_clue_3",
     "voiced": "glue",
     "voiceless": "clue",
@@ -4961,7 +4121,7 @@ var trial_stimuli = [
     "path": "glue_clue_3_19.mp3"
   },
   {
-    "index": "497",
+    "index": "413",
     "set": "goal_coal_3",
     "voiced": "goal",
     "voiceless": "coal",
@@ -4971,7 +4131,7 @@ var trial_stimuli = [
     "path": "goal_coal_3_23.mp3"
   },
   {
-    "index": "498",
+    "index": "414",
     "set": "gore_core_3",
     "voiced": "gore",
     "voiceless": "core",
@@ -4981,7 +4141,7 @@ var trial_stimuli = [
     "path": "gore_core_3_21.mp3"
   },
   {
-    "index": "499",
+    "index": "415",
     "set": "grain_crain_3",
     "voiced": "grain",
     "voiceless": "crain",
@@ -4991,7 +4151,7 @@ var trial_stimuli = [
     "path": "grain_crain_3_22.mp3"
   },
   {
-    "index": "500",
+    "index": "416",
     "set": "grew_crew_3",
     "voiced": "grew",
     "voiceless": "crew",
@@ -5001,7 +4161,7 @@ var trial_stimuli = [
     "path": "grew_crew_3_24.mp3"
   },
   {
-    "index": "501",
+    "index": "417",
     "set": "grill_krill_3",
     "voiced": "grill",
     "voiceless": "krill",
@@ -5011,7 +4171,7 @@ var trial_stimuli = [
     "path": "grill_krill_3_18.mp3"
   },
   {
-    "index": "502",
+    "index": "418",
     "set": "grime_crime_3",
     "voiced": "grime",
     "voiceless": "crime",
@@ -5021,7 +4181,7 @@ var trial_stimuli = [
     "path": "grime_crime_3_23.mp3"
   },
   {
-    "index": "503",
+    "index": "419",
     "set": "grow_crow_1",
     "voiced": "grow",
     "voiceless": "crow",
@@ -5031,7 +4191,7 @@ var trial_stimuli = [
     "path": "grow_crow_1_18.mp3"
   },
   {
-    "index": "504",
+    "index": "420",
     "set": "gruel_cruel_3",
     "voiced": "gruel",
     "voiceless": "cruel",
@@ -5039,846 +4199,6 @@ var trial_stimuli = [
     "underscore": "_",
     "extension": ".mp3",
     "path": "gruel_cruel_3_22.mp3"
-  },
-  {
-    "index": "505",
-    "set": "ab_app_1",
-    "voiced": "ab",
-    "voiceless": "app",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ab_app_1_26.mp3"
-  },
-  {
-    "index": "506",
-    "set": "abe_ape_1",
-    "voiced": "abe",
-    "voiceless": "ape",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "abe_ape_1_30.mp3"
-  },
-  {
-    "index": "507",
-    "set": "chug_chuck_3",
-    "voiced": "chug",
-    "voiceless": "chuck",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "chug_chuck_3_30.mp3"
-  },
-  {
-    "index": "508",
-    "set": "fade_fate_3",
-    "voiced": "fade",
-    "voiceless": "fate",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "fade_fate_3_26.mp3"
-  },
-  {
-    "index": "509",
-    "set": "feed_feet_1",
-    "voiced": "feed",
-    "voiceless": "feet",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "feed_feet_1_28.mp3"
-  },
-  {
-    "index": "510",
-    "set": "flab_flap_1",
-    "voiced": "flab",
-    "voiceless": "flap",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "flab_flap_1_30.mp3"
-  },
-  {
-    "index": "511",
-    "set": "flag_flack_1",
-    "voiced": "flag",
-    "voiceless": "flack",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "flag_flack_1_30.mp3"
-  },
-  {
-    "index": "512",
-    "set": "ford_fort_1",
-    "voiced": "ford",
-    "voiceless": "fort",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ford_fort_1_30.mp3"
-  },
-  {
-    "index": "513",
-    "set": "hard_heart_1",
-    "voiced": "hard",
-    "voiceless": "heart",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hard_heart_1_30.mp3"
-  },
-  {
-    "index": "514",
-    "set": "hide_height_3",
-    "voiced": "hide",
-    "voiceless": "height",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hide_height_3_28.mp3"
-  },
-  {
-    "index": "515",
-    "set": "hug_huck_1",
-    "voiced": "hug",
-    "voiceless": "huck",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "hug_huck_1_27.mp3"
-  },
-  {
-    "index": "516",
-    "set": "lab_lap_3",
-    "voiced": "lab",
-    "voiceless": "lap",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lab_lap_3_29.mp3"
-  },
-  {
-    "index": "517",
-    "set": "lag_lack_1",
-    "voiced": "lag",
-    "voiceless": "lack",
-    "step": "21",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lag_lack_1_21.mp3"
-  },
-  {
-    "index": "518",
-    "set": "league_leak_1",
-    "voiced": "league",
-    "voiceless": "leak",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "league_leak_1_24.mp3"
-  },
-  {
-    "index": "519",
-    "set": "lob_lop_3",
-    "voiced": "lob",
-    "voiceless": "lop",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lob_lop_3_26.mp3"
-  },
-  {
-    "index": "520",
-    "set": "lube_loop_3",
-    "voiced": "lube",
-    "voiceless": "loop",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lube_loop_3_26.mp3"
-  },
-  {
-    "index": "521",
-    "set": "lug_luck_1",
-    "voiced": "lug",
-    "voiceless": "luck",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "lug_luck_1_27.mp3"
-  },
-  {
-    "index": "522",
-    "set": "mob_mop_3",
-    "voiced": "mob",
-    "voiceless": "mop",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mob_mop_3_29.mp3"
-  },
-  {
-    "index": "523",
-    "set": "mound_mount_1",
-    "voiced": "mound",
-    "voiceless": "mount",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mound_mount_1_28.mp3"
-  },
-  {
-    "index": "524",
-    "set": "mug_muck_3",
-    "voiced": "mug",
-    "voiceless": "muck",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "mug_muck_3_30.mp3"
-  },
-  {
-    "index": "525",
-    "set": "nag_knack_3",
-    "voiced": "nag",
-    "voiceless": "knack",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "nag_knack_3_30.mp3"
-  },
-  {
-    "index": "526",
-    "set": "nab_nap_1",
-    "voiced": "nab",
-    "voiceless": "nap",
-    "step": "22",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "nab_nap_1_22.mp3"
-  },
-  {
-    "index": "527",
-    "set": "rag_rack_3",
-    "voiced": "rag",
-    "voiceless": "rack",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rag_rack_3_28.mp3"
-  },
-  {
-    "index": "528",
-    "set": "rib_rip_3",
-    "voiced": "rib",
-    "voiceless": "rip",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rib_rip_3_29.mp3"
-  },
-  {
-    "index": "529",
-    "set": "ride_write_3",
-    "voiced": "ride",
-    "voiceless": "write",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ride_write_3_29.mp3"
-  },
-  {
-    "index": "530",
-    "set": "rig_rick_3",
-    "voiced": "rig",
-    "voiceless": "rick",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "rig_rick_3_27.mp3"
-  },
-  {
-    "index": "531",
-    "set": "robe_rope_3",
-    "voiced": "robe",
-    "voiceless": "rope",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "robe_rope_3_29.mp3"
-  },
-  {
-    "index": "532",
-    "set": "sag_sack_1",
-    "voiced": "sag",
-    "voiceless": "sack",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "sag_sack_1_28.mp3"
-  },
-  {
-    "index": "533",
-    "set": "seed_seat_3",
-    "voiced": "seed",
-    "voiceless": "seat",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "seed_seat_3_28.mp3"
-  },
-  {
-    "index": "534",
-    "set": "send_sent_3",
-    "voiced": "send",
-    "voiceless": "sent",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "send_sent_3_27.mp3"
-  },
-  {
-    "index": "535",
-    "set": "shag_shack_3",
-    "voiced": "shag",
-    "voiceless": "shack",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "shag_shack_3_29.mp3"
-  },
-  {
-    "index": "536",
-    "set": "slab_slap_1",
-    "voiced": "slab",
-    "voiceless": "slap",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slab_slap_1_29.mp3"
-  },
-  {
-    "index": "537",
-    "set": "slid_slit_1",
-    "voiced": "slid",
-    "voiceless": "slit",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slid_slit_1_30.mp3"
-  },
-  {
-    "index": "538",
-    "set": "slide_slight_3",
-    "voiced": "slide",
-    "voiceless": "slight",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slide_slight_3_28.mp3"
-  },
-  {
-    "index": "539",
-    "set": "slob_slop_3",
-    "voiced": "slob",
-    "voiceless": "slop",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "slob_slop_3_30.mp3"
-  },
-  {
-    "index": "540",
-    "set": "snag_snack_3",
-    "voiced": "snag",
-    "voiceless": "snack",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "snag_snack_3_29.mp3"
-  },
-  {
-    "index": "541",
-    "set": "sob_sop_3",
-    "voiced": "sob",
-    "voiceless": "sop",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "sob_sop_3_30.mp3"
-  },
-  {
-    "index": "542",
-    "set": "swab_swap_3",
-    "voiced": "swab",
-    "voiceless": "swap",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "swab_swap_3_27.mp3"
-  },
-  {
-    "index": "543",
-    "set": "wed_wet_3",
-    "voiced": "wed",
-    "voiceless": "wet",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "wed_wet_3_26.mp3"
-  },
-  {
-    "index": "544",
-    "set": "weed_wheat_3",
-    "voiced": "weed",
-    "voiceless": "wheat",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "weed_wheat_3_28.mp3"
-  },
-  {
-    "index": "545",
-    "set": "whig_wick_1",
-    "voiced": "whig",
-    "voiceless": "wick",
-    "step": "17",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "whig_wick_1_17.mp3"
-  },
-  {
-    "index": "546",
-    "set": "wide_white_3",
-    "voiced": "wide",
-    "voiceless": "white",
-    "step": "20",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "wide_white_3_20.mp3"
-  },
-  {
-    "index": "547",
-    "set": "ban_pan_1",
-    "voiced": "ban",
-    "voiceless": "pan",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "ban_pan_1_23.mp3"
-  },
-  {
-    "index": "548",
-    "set": "barrel_peril_3",
-    "voiced": "barrel",
-    "voiceless": "peril",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "barrel_peril_3_29.mp3"
-  },
-  {
-    "index": "549",
-    "set": "bay_pay_1",
-    "voiced": "bay",
-    "voiceless": "pay",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bay_pay_1_25.mp3"
-  },
-  {
-    "index": "550",
-    "set": "bear_pair_1",
-    "voiced": "bear",
-    "voiceless": "pair",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bear_pair_1_24.mp3"
-  },
-  {
-    "index": "551",
-    "set": "beer_peer_1",
-    "voiced": "beer",
-    "voiceless": "peer",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "beer_peer_1_23.mp3"
-  },
-  {
-    "index": "552",
-    "set": "bin_pin_3",
-    "voiced": "bin",
-    "voiceless": "pin",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bin_pin_3_26.mp3"
-  },
-  {
-    "index": "553",
-    "set": "bloom_plume_3",
-    "voiced": "bloom",
-    "voiceless": "plume",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bloom_plume_3_29.mp3"
-  },
-  {
-    "index": "554",
-    "set": "bony_pony_1",
-    "voiced": "bony",
-    "voiceless": "pony",
-    "step": "19",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bony_pony_1_19.mp3"
-  },
-  {
-    "index": "555",
-    "set": "bore_pore_1",
-    "voiced": "bore",
-    "voiceless": "pore",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bore_pore_1_28.mp3"
-  },
-  {
-    "index": "556",
-    "set": "bowl_pole_1",
-    "voiced": "bowl",
-    "voiceless": "pole",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bowl_pole_1_27.mp3"
-  },
-  {
-    "index": "557",
-    "set": "bull_pull_3",
-    "voiced": "bull",
-    "voiceless": "pull",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bull_pull_3_27.mp3"
-  },
-  {
-    "index": "558",
-    "set": "bully_pulley_3",
-    "voiced": "bully",
-    "voiceless": "pulley",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bully_pulley_3_25.mp3"
-  },
-  {
-    "index": "559",
-    "set": "bun_pun_3",
-    "voiced": "bun",
-    "voiceless": "pun",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "bun_pun_3_23.mp3"
-  },
-  {
-    "index": "560",
-    "set": "burly_pearly_3",
-    "voiced": "burly",
-    "voiceless": "pearly",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "burly_pearly_3_26.mp3"
-  },
-  {
-    "index": "561",
-    "set": "dame_tame_1",
-    "voiced": "dame",
-    "voiceless": "tame",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dame_tame_1_25.mp3"
-  },
-  {
-    "index": "562",
-    "set": "dare_tear_1",
-    "voiced": "dare",
-    "voiceless": "tear",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dare_tear_1_26.mp3"
-  },
-  {
-    "index": "563",
-    "set": "deal_teal_1",
-    "voiced": "deal",
-    "voiceless": "teal",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "deal_teal_1_23.mp3"
-  },
-  {
-    "index": "564",
-    "set": "dial_tile_1",
-    "voiced": "dial",
-    "voiceless": "tile",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dial_tile_1_27.mp3"
-  },
-  {
-    "index": "565",
-    "set": "die_tie_1",
-    "voiced": "die",
-    "voiceless": "tie",
-    "step": "30",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "die_tie_1_30.mp3"
-  },
-  {
-    "index": "566",
-    "set": "dime_time_3",
-    "voiced": "dime",
-    "voiceless": "time",
-    "step": "29",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dime_time_3_29.mp3"
-  },
-  {
-    "index": "567",
-    "set": "din_tin_3",
-    "voiced": "din",
-    "voiceless": "tin",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "din_tin_3_25.mp3"
-  },
-  {
-    "index": "568",
-    "set": "doll_tall_3",
-    "voiced": "doll",
-    "voiceless": "tall",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "doll_tall_3_26.mp3"
-  },
-  {
-    "index": "569",
-    "set": "dollar_taller_3",
-    "voiced": "dollar",
-    "voiceless": "taller",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dollar_taller_3_27.mp3"
-  },
-  {
-    "index": "570",
-    "set": "doom_toom_3",
-    "voiced": "doom",
-    "voiceless": "tomb",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "doom_toom_3_24.mp3"
-  },
-  {
-    "index": "571",
-    "set": "dough_toe_3",
-    "voiced": "dough",
-    "voiceless": "toe",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dough_toe_3_27.mp3"
-  },
-  {
-    "index": "572",
-    "set": "drain_train_1",
-    "voiced": "drain",
-    "voiceless": "train",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "drain_train_1_23.mp3"
-  },
-  {
-    "index": "573",
-    "set": "dry_try_3",
-    "voiced": "dry",
-    "voiceless": "try",
-    "step": "22",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "dry_try_3_22.mp3"
-  },
-  {
-    "index": "574",
-    "set": "duel_tool_1",
-    "voiced": "duel",
-    "voiceless": "tool",
-    "step": "22",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "duel_tool_1_22.mp3"
-  },
-  {
-    "index": "575",
-    "set": "gain_cane_3",
-    "voiced": "gain",
-    "voiceless": "cane",
-    "step": "27",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gain_cane_3_27.mp3"
-  },
-  {
-    "index": "576",
-    "set": "gale_kale_1",
-    "voiced": "gale",
-    "voiceless": "kale",
-    "step": "28",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gale_kale_1_28.mp3"
-  },
-  {
-    "index": "577",
-    "set": "gallery_calorie_3",
-    "voiced": "gallery",
-    "voiceless": "calorie",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gallery_calorie_3_26.mp3"
-  },
-  {
-    "index": "578",
-    "set": "game_came_3",
-    "voiced": "game",
-    "voiceless": "came",
-    "step": "20",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "game_came_3_20.mp3"
-  },
-  {
-    "index": "579",
-    "set": "girly_curly_3",
-    "voiced": "girly",
-    "voiceless": "curly",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "girly_curly_3_24.mp3"
-  },
-  {
-    "index": "580",
-    "set": "glue_clue_3",
-    "voiced": "glue",
-    "voiceless": "clue",
-    "step": "21",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "glue_clue_3_21.mp3"
-  },
-  {
-    "index": "581",
-    "set": "goal_coal_3",
-    "voiced": "goal",
-    "voiceless": "coal",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "goal_coal_3_25.mp3"
-  },
-  {
-    "index": "582",
-    "set": "gore_core_3",
-    "voiced": "gore",
-    "voiceless": "core",
-    "step": "23",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gore_core_3_23.mp3"
-  },
-  {
-    "index": "583",
-    "set": "grain_crain_3",
-    "voiced": "grain",
-    "voiceless": "crain",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grain_crain_3_24.mp3"
-  },
-  {
-    "index": "584",
-    "set": "grew_crew_3",
-    "voiced": "grew",
-    "voiceless": "crew",
-    "step": "26",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grew_crew_3_26.mp3"
-  },
-  {
-    "index": "585",
-    "set": "grill_krill_3",
-    "voiced": "grill",
-    "voiceless": "krill",
-    "step": "20",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grill_krill_3_20.mp3"
-  },
-  {
-    "index": "586",
-    "set": "grime_crime_3",
-    "voiced": "grime",
-    "voiceless": "crime",
-    "step": "25",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grime_crime_3_25.mp3"
-  },
-  {
-    "index": "587",
-    "set": "grow_crow_1",
-    "voiced": "grow",
-    "voiceless": "crow",
-    "step": "20",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "grow_crow_1_20.mp3"
-  },
-  {
-    "index": "588",
-    "set": "gruel_cruel_3",
-    "voiced": "gruel",
-    "voiceless": "cruel",
-    "step": "24",
-    "underscore": "_",
-    "extension": ".mp3",
-    "path": "gruel_cruel_3_24.mp3"
   }
 ]
 
@@ -5967,90 +4287,6 @@ var assetPaths = [
   "audio/grime_crime_3_19.mp3",
   "audio/grow_crow_1_14.mp3",
   "audio/gruel_cruel_3_18.mp3",
-  "audio/ab_app_1_14.mp3",
-  "audio/abe_ape_1_18.mp3",
-  "audio/chug_chuck_3_18.mp3",
-  "audio/fade_fate_3_14.mp3",
-  "audio/feed_feet_1_16.mp3",
-  "audio/flab_flap_1_18.mp3",
-  "audio/flag_flack_1_18.mp3",
-  "audio/ford_fort_1_18.mp3",
-  "audio/hard_heart_1_18.mp3",
-  "audio/hide_height_3_16.mp3",
-  "audio/hug_huck_1_15.mp3",
-  "audio/lab_lap_3_17.mp3",
-  "audio/lag_lack_1_9.mp3",
-  "audio/league_leak_1_12.mp3",
-  "audio/lob_lop_3_14.mp3",
-  "audio/lube_loop_3_14.mp3",
-  "audio/lug_luck_1_15.mp3",
-  "audio/mob_mop_3_17.mp3",
-  "audio/mound_mount_1_16.mp3",
-  "audio/mug_muck_3_18.mp3",
-  "audio/nag_knack_3_18.mp3",
-  "audio/nab_nap_1_10.mp3",
-  "audio/rag_rack_3_16.mp3",
-  "audio/rib_rip_3_17.mp3",
-  "audio/ride_write_3_17.mp3",
-  "audio/rig_rick_3_15.mp3",
-  "audio/robe_rope_3_17.mp3",
-  "audio/sag_sack_1_16.mp3",
-  "audio/seed_seat_3_16.mp3",
-  "audio/send_sent_3_15.mp3",
-  "audio/shag_shack_3_17.mp3",
-  "audio/slab_slap_1_17.mp3",
-  "audio/slid_slit_1_18.mp3",
-  "audio/slide_slight_3_16.mp3",
-  "audio/slob_slop_3_18.mp3",
-  "audio/snag_snack_3_17.mp3",
-  "audio/sob_sop_3_18.mp3",
-  "audio/swab_swap_3_15.mp3",
-  "audio/wed_wet_3_14.mp3",
-  "audio/weed_wheat_3_16.mp3",
-  "audio/whig_wick_1_5.mp3",
-  "audio/wide_white_3_8.mp3",
-  "audio/ban_pan_1_11.mp3",
-  "audio/barrel_peril_3_17.mp3",
-  "audio/bay_pay_1_13.mp3",
-  "audio/bear_pair_1_12.mp3",
-  "audio/beer_peer_1_11.mp3",
-  "audio/bin_pin_3_14.mp3",
-  "audio/bloom_plume_3_17.mp3",
-  "audio/bony_pony_1_7.mp3",
-  "audio/bore_pore_1_16.mp3",
-  "audio/bowl_pole_1_15.mp3",
-  "audio/bull_pull_3_15.mp3",
-  "audio/bully_pulley_3_13.mp3",
-  "audio/bun_pun_3_11.mp3",
-  "audio/burly_pearly_3_14.mp3",
-  "audio/dame_tame_1_13.mp3",
-  "audio/dare_tear_1_14.mp3",
-  "audio/deal_teal_1_11.mp3",
-  "audio/dial_tile_1_15.mp3",
-  "audio/die_tie_1_18.mp3",
-  "audio/dime_time_3_17.mp3",
-  "audio/din_tin_3_13.mp3",
-  "audio/doll_tall_3_14.mp3",
-  "audio/dollar_taller_3_15.mp3",
-  "audio/doom_toom_3_12.mp3",
-  "audio/dough_toe_3_15.mp3",
-  "audio/drain_train_1_11.mp3",
-  "audio/dry_try_3_10.mp3",
-  "audio/duel_tool_1_10.mp3",
-  "audio/gain_cane_3_15.mp3",
-  "audio/gale_kale_1_16.mp3",
-  "audio/gallery_calorie_3_14.mp3",
-  "audio/game_came_3_8.mp3",
-  "audio/girly_curly_3_12.mp3",
-  "audio/glue_clue_3_9.mp3",
-  "audio/goal_coal_3_13.mp3",
-  "audio/gore_core_3_11.mp3",
-  "audio/grain_crain_3_12.mp3",
-  "audio/grew_crew_3_14.mp3",
-  "audio/grill_krill_3_8.mp3",
-  "audio/grime_crime_3_13.mp3",
-  "audio/grow_crow_1_8.mp3",
-  "audio/gruel_cruel_3_12.mp3",
   "audio/ab_app_1_16.mp3",
   "audio/abe_ape_1_20.mp3",
   "audio/chug_chuck_3_20.mp3",
@@ -6386,89 +4622,5 @@ var assetPaths = [
   "audio/grill_krill_3_18.mp3",
   "audio/grime_crime_3_23.mp3",
   "audio/grow_crow_1_18.mp3",
-  "audio/gruel_cruel_3_22.mp3",
-  "audio/ab_app_1_26.mp3",
-  "audio/abe_ape_1_30.mp3",
-  "audio/chug_chuck_3_30.mp3",
-  "audio/fade_fate_3_26.mp3",
-  "audio/feed_feet_1_28.mp3",
-  "audio/flab_flap_1_30.mp3",
-  "audio/flag_flack_1_30.mp3",
-  "audio/ford_fort_1_30.mp3",
-  "audio/hard_heart_1_30.mp3",
-  "audio/hide_height_3_28.mp3",
-  "audio/hug_huck_1_27.mp3",
-  "audio/lab_lap_3_29.mp3",
-  "audio/lag_lack_1_21.mp3",
-  "audio/league_leak_1_24.mp3",
-  "audio/lob_lop_3_26.mp3",
-  "audio/lube_loop_3_26.mp3",
-  "audio/lug_luck_1_27.mp3",
-  "audio/mob_mop_3_29.mp3",
-  "audio/mound_mount_1_28.mp3",
-  "audio/mug_muck_3_30.mp3",
-  "audio/nag_knack_3_30.mp3",
-  "audio/nab_nap_1_22.mp3",
-  "audio/rag_rack_3_28.mp3",
-  "audio/rib_rip_3_29.mp3",
-  "audio/ride_write_3_29.mp3",
-  "audio/rig_rick_3_27.mp3",
-  "audio/robe_rope_3_29.mp3",
-  "audio/sag_sack_1_28.mp3",
-  "audio/seed_seat_3_28.mp3",
-  "audio/send_sent_3_27.mp3",
-  "audio/shag_shack_3_29.mp3",
-  "audio/slab_slap_1_29.mp3",
-  "audio/slid_slit_1_30.mp3",
-  "audio/slide_slight_3_28.mp3",
-  "audio/slob_slop_3_30.mp3",
-  "audio/snag_snack_3_29.mp3",
-  "audio/sob_sop_3_30.mp3",
-  "audio/swab_swap_3_27.mp3",
-  "audio/wed_wet_3_26.mp3",
-  "audio/weed_wheat_3_28.mp3",
-  "audio/whig_wick_1_17.mp3",
-  "audio/wide_white_3_20.mp3",
-  "audio/ban_pan_1_23.mp3",
-  "audio/barrel_peril_3_29.mp3",
-  "audio/bay_pay_1_25.mp3",
-  "audio/bear_pair_1_24.mp3",
-  "audio/beer_peer_1_23.mp3",
-  "audio/bin_pin_3_26.mp3",
-  "audio/bloom_plume_3_29.mp3",
-  "audio/bony_pony_1_19.mp3",
-  "audio/bore_pore_1_28.mp3",
-  "audio/bowl_pole_1_27.mp3",
-  "audio/bull_pull_3_27.mp3",
-  "audio/bully_pulley_3_25.mp3",
-  "audio/bun_pun_3_23.mp3",
-  "audio/burly_pearly_3_26.mp3",
-  "audio/dame_tame_1_25.mp3",
-  "audio/dare_tear_1_26.mp3",
-  "audio/deal_teal_1_23.mp3",
-  "audio/dial_tile_1_27.mp3",
-  "audio/die_tie_1_30.mp3",
-  "audio/dime_time_3_29.mp3",
-  "audio/din_tin_3_25.mp3",
-  "audio/doll_tall_3_26.mp3",
-  "audio/dollar_taller_3_27.mp3",
-  "audio/doom_toom_3_24.mp3",
-  "audio/dough_toe_3_27.mp3",
-  "audio/drain_train_1_23.mp3",
-  "audio/dry_try_3_22.mp3",
-  "audio/duel_tool_1_22.mp3",
-  "audio/gain_cane_3_27.mp3",
-  "audio/gale_kale_1_28.mp3",
-  "audio/gallery_calorie_3_26.mp3",
-  "audio/game_came_3_20.mp3",
-  "audio/girly_curly_3_24.mp3",
-  "audio/glue_clue_3_21.mp3",
-  "audio/goal_coal_3_25.mp3",
-  "audio/gore_core_3_23.mp3",
-  "audio/grain_crain_3_24.mp3",
-  "audio/grew_crew_3_26.mp3",
-  "audio/grill_krill_3_20.mp3",
-  "audio/grime_crime_3_25.mp3",
-  "audio/grow_crow_1_20.mp3",
-  "audio/gruel_cruel_3_24.mp3"
+  "audio/gruel_cruel_3_22.mp3"
 ]

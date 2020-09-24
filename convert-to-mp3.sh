@@ -1,6 +1,6 @@
 #!/bin/sh
 
-arr=("./redo_norming/audio/possible_nonword2/*")
+arr=("./coda_norming/audio/coda/*")
 
 for d in "${arr[@]}"; do
 	echo "converting audio in ${d}"
