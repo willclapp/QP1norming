@@ -1,0 +1,40 @@
+.slider {
+  /* default is width 400 and margin 10 */
+	width: 400;
+	margin: 10px;
+}
+
+.options_container {
+	width: 100%;
+	height: 30%;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+}
+
+.trial_option {
+	height: 70px;
+	width: 250px;
+	border: 1px solid gray;
+	padding: 20px;
+	margin: 20px;
+	display: flex; 
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+}
+
+.trial_option label {
+	font-size: 40px;
+	padding-bottom: 10px;
+	font-family: sans-serif;
+}
+
+.target {
+	width: 80%;
+}
+
+.press {
+	font-size: 25px;
+	font-family: sans-serif;
+}

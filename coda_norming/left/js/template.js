@@ -90,6 +90,7 @@ function make_slides(f) {
     submit: function (e) {
       //if (e.preventDefault) e.preventDefault(); // I don't know what this means.
       exp.subj_data = {
+        prolific_id: $("#prolific_ID").val(),
         language: $("#language").val(),
         enjoyment: $("#enjoyment").val(),
         assess: $('input[name="assess"]:checked').val(),
@@ -120,7 +121,7 @@ function make_slides(f) {
         "subject_information": exp.subj_data,
         "time_in_minutes": (Date.now() - exp.startT) / 60000
       };
-      submitResults(6, exp.data, function(err, data) {
+      submitResults(8, exp.data, function(err, data) {
         if (err) {
           console.error(err)
         } else {
